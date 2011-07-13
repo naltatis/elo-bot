@@ -1,0 +1,340 @@
+   1. Spieltag
+   Fr 28.07.1989 20:00 1. FC Kaiserslautern - Bor. Mönchengladbach 2:1
+                           KFC Uerdingen 05 - FC 08 Homburg        3:0
+   Sa 29.07.1989 15:30         FC St. Pauli - Werder Bremen        0:0
+                           Bayer Leverkusen - Borussia Dortmund    1:0
+                             Bayern München - 1. FC Nürnberg       3:2
+                              VfB Stuttgart - Karlsruher SC        2:0
+                                 VfL Bochum - 1. FC Köln           0:1
+                        Eintracht Frankfurt - Waldhof Mannheim     3:1
+                         Fortuna Düsseldorf - Hamburger SV         1:1
+   2. Spieltag
+   Fr 04.08.1989 19:30    Borussia Dortmund - FC St. Pauli         3:1
+                 20:00         Hamburger SV - Eintracht Frankfurt  1:1
+   Sa 05.08.1989 15:30        Karlsruher SC - KFC Uerdingen 05     0:0
+                              FC 08 Homburg - 1. FC Kaiserslautern 2:2
+                       Bor. Mönchengladbach - Bayern München       0:0
+                             1. FC Nürnberg - Bayer Leverkusen     2:2
+                              Werder Bremen - Fortuna Düsseldorf   2:2
+                           Waldhof Mannheim - VfL Bochum           3:2
+   Mi 09.08.1989 20:00           1. FC Köln - VfB Stuttgart        0:0
+   3. Spieltag
+   Di 08.08.1989 20:00   Fortuna Düsseldorf - Eintracht Frankfurt  1:2
+   Mi 09.08.1989 20:00       Bayern München - FC 08 Homburg        1:0
+   Fr 11.08.1989 20:00 1. FC Kaiserslautern - Karlsruher SC        5:1
+   Sa 12.08.1989 15:30         FC St. Pauli - 1. FC Nürnberg       0:1
+                           Bayer Leverkusen - Bor. Mönchengladbach 0:0
+                           KFC Uerdingen 05 - 1. FC Köln           2:3
+                              VfB Stuttgart - Waldhof Mannheim     1:0
+                                 VfL Bochum - Hamburger SV         3:1
+                              Werder Bremen - Borussia Dortmund    2:0
+   4. Spieltag
+   Di 15.08.1989 20:00        FC 08 Homburg - Bayer Leverkusen     2:1
+                       Bor. Mönchengladbach - FC St. Pauli         4:1
+                             1. FC Nürnberg - Werder Bremen        1:1
+                           Waldhof Mannheim - KFC Uerdingen 05     1:1
+   Mi 16.08.1989 20:00         Hamburger SV - VfB Stuttgart        1:0
+                                 1. FC Köln - 1. FC Kaiserslautern 4:1
+                              Karlsruher SC - Bayern München       3:3
+                          Borussia Dortmund - Fortuna Düsseldorf   1:0
+                        Eintracht Frankfurt - VfL Bochum           4:0
+   5. Spieltag
+   Di 22.08.1989 19:30         FC St. Pauli - FC 08 Homburg        1:1
+                 20:00    Borussia Dortmund - 1. FC Nürnberg       2:1
+                              Werder Bremen - Bor. Mönchengladbach 0:0
+   Mi 23.08.1989 20:00     Bayer Leverkusen - Karlsruher SC        1:1
+                             Bayern München - 1. FC Köln           5:1
+                       1. FC Kaiserslautern - Waldhof Mannheim     2:3
+                           KFC Uerdingen 05 - Hamburger SV         5:2
+                              VfB Stuttgart - Eintracht Frankfurt  1:1
+                         Fortuna Düsseldorf - VfL Bochum           2:2
+   6. Spieltag
+   Sa 26.08.1989 15:30         Hamburger SV - 1. FC Kaiserslautern 3:0
+                                 1. FC Köln - Bayer Leverkusen     1:1
+                              Karlsruher SC - FC St. Pauli         0:0
+                              FC 08 Homburg - Werder Bremen        1:1
+                       Bor. Mönchengladbach - Borussia Dortmund    0:0
+                             1. FC Nürnberg - Fortuna Düsseldorf   3:0
+                                 VfL Bochum - VfB Stuttgart        2:0
+                        Eintracht Frankfurt - KFC Uerdingen 05     2:1
+                           Waldhof Mannheim - Bayern München       1:0
+   7. Spieltag
+   Do 31.08.1989 19:30       Bayern München - Hamburger SV         4:0
+   Fr 01.09.1989 19:30     KFC Uerdingen 05 - VfL Bochum           3:1
+                 20:00        Werder Bremen - Karlsruher SC        4:0
+   Sa 02.09.1989 15:30         FC St. Pauli - 1. FC Köln           1:1
+                           Bayer Leverkusen - Waldhof Mannheim     3:0
+                       1. FC Kaiserslautern - Eintracht Frankfurt  2:1
+                             1. FC Nürnberg - Bor. Mönchengladbach 2:0
+                          Borussia Dortmund - FC 08 Homburg        3:0
+                         Fortuna Düsseldorf - VfB Stuttgart        4:2
+   8. Spieltag
+   Fr 08.09.1989 20:00 Bor. Mönchengladbach - Fortuna Düsseldorf   3:1
+   Sa 09.09.1989 15:30         Hamburger SV - Bayer Leverkusen     0:1
+                                 1. FC Köln - Werder Bremen        4:2
+                              Karlsruher SC - Borussia Dortmund    2:1
+                              FC 08 Homburg - 1. FC Nürnberg       0:1
+                              VfB Stuttgart - KFC Uerdingen 05     1:0
+                                 VfL Bochum - 1. FC Kaiserslautern 2:0
+                        Eintracht Frankfurt - Bayern München       1:2
+                           Waldhof Mannheim - FC St. Pauli         0:1
+   9. Spieltag
+   Fr 15.09.1989 19:30 Bor. Mönchengladbach - FC 08 Homburg        0:0
+                 20:00     Bayer Leverkusen - Eintracht Frankfurt  2:0
+   Sa 16.09.1989 15:30         FC St. Pauli - Hamburger SV         0:0
+                             Bayern München - VfL Bochum           5:1
+                       1. FC Kaiserslautern - VfB Stuttgart        1:2
+                             1. FC Nürnberg - Karlsruher SC        2:0
+                          Borussia Dortmund - 1. FC Köln           0:0
+                              Werder Bremen - Waldhof Mannheim     0:1
+                         Fortuna Düsseldorf - KFC Uerdingen 05     2:1
+   10. Spieltag
+   Di 19.09.1989 17:30        FC 08 Homburg - Fortuna Düsseldorf   1:0
+                 20:00        Karlsruher SC - Bor. Mönchengladbach 0:1
+                           KFC Uerdingen 05 - 1. FC Kaiserslautern 3:2
+                        Eintracht Frankfurt - FC St. Pauli         4:1
+   Mi 20.09.1989 17:30     Waldhof Mannheim - Borussia Dortmund    2:1
+                 20:00         Hamburger SV - Werder Bremen        4:0
+                                 1. FC Köln - 1. FC Nürnberg       2:1
+                              VfB Stuttgart - Bayern München       2:1
+                                 VfL Bochum - Bayer Leverkusen     0:2
+   11. Spieltag
+   Fr 29.09.1989 19:30         FC St. Pauli - VfL Bochum           2:0
+   Sa 30.09.1989 15:30     Bayer Leverkusen - VfB Stuttgart        1:1
+                             Bayern München - KFC Uerdingen 05     3:0
+                              FC 08 Homburg - Karlsruher SC        2:0
+                       Bor. Mönchengladbach - 1. FC Köln           0:2
+                             1. FC Nürnberg - Waldhof Mannheim     2:0
+                          Borussia Dortmund - Hamburger SV         1:0
+                              Werder Bremen - Eintracht Frankfurt  1:2
+                         Fortuna Düsseldorf - 1. FC Kaiserslautern 1:1
+   12. Spieltag
+   Sa 07.10.1989 15:00     Waldhof Mannheim - Bor. Mönchengladbach 4:2
+                 15:30         Hamburger SV - 1. FC Nürnberg       1:0
+                                 1. FC Köln - FC 08 Homburg        1:0
+                              Karlsruher SC - Fortuna Düsseldorf   2:2
+                       1. FC Kaiserslautern - Bayern München       0:0
+                           KFC Uerdingen 05 - Bayer Leverkusen     0:2
+                              VfB Stuttgart - FC St. Pauli         4:0
+                                 VfL Bochum - Werder Bremen        0:0
+                        Eintracht Frankfurt - Borussia Dortmund    0:2
+   13. Spieltag
+   Fr 13.10.1989 20:00 Bor. Mönchengladbach - Hamburger SV         1:3
+                          Borussia Dortmund - VfL Bochum           0:1
+                              Werder Bremen - VfB Stuttgart        6:1
+   Sa 14.10.1989 15:00        FC 08 Homburg - Waldhof Mannheim     2:1
+                 15:30         FC St. Pauli - KFC Uerdingen 05     1:1
+                           Bayer Leverkusen - 1. FC Kaiserslautern 1:1
+                              Karlsruher SC - 1. FC Köln           0:0
+                             1. FC Nürnberg - Eintracht Frankfurt  1:1
+                         Fortuna Düsseldorf - Bayern München       1:2
+   14. Spieltag
+   Fr 20.10.1989 19:30 1. FC Kaiserslautern - FC St. Pauli         1:1
+   Sa 21.10.1989 15:00     Waldhof Mannheim - Karlsruher SC        0:1
+                 15:30         Hamburger SV - FC 08 Homburg        2:0
+                                 1. FC Köln - Fortuna Düsseldorf   1:3
+                             Bayern München - Bayer Leverkusen     0:1
+                           KFC Uerdingen 05 - Werder Bremen        0:1
+                              VfB Stuttgart - Borussia Dortmund    3:1
+                                 VfL Bochum - 1. FC Nürnberg       3:3
+                        Eintracht Frankfurt - Bor. Mönchengladbach 3:0
+   15. Spieltag
+   Fr 27.10.1989 19:30         FC St. Pauli - Bayern München       0:2
+                 20:00        Werder Bremen - 1. FC Kaiserslautern 4:0
+   Sa 28.10.1989 15:00        FC 08 Homburg - Eintracht Frankfurt  2:3
+                 15:30     Bayer Leverkusen - Fortuna Düsseldorf   3:3
+                              Karlsruher SC - Hamburger SV         2:0
+                       Bor. Mönchengladbach - VfL Bochum           1:2
+                             1. FC Nürnberg - VfB Stuttgart        0:2
+                          Borussia Dortmund - KFC Uerdingen 05     1:0
+                           Waldhof Mannheim - 1. FC Köln           2:3
+   16. Spieltag
+   Fr 03.11.1989 19:30           VfL Bochum - FC 08 Homburg        1:0
+                         Fortuna Düsseldorf - Waldhof Mannheim     0:0
+                 20:00     Bayer Leverkusen - FC St. Pauli         1:1
+   Sa 04.11.1989 15:30       Bayern München - Werder Bremen        1:1
+                       1. FC Kaiserslautern - Borussia Dortmund    2:2
+                           KFC Uerdingen 05 - 1. FC Nürnberg       3:3
+                              VfB Stuttgart - Bor. Mönchengladbach 4:0
+                        Eintracht Frankfurt - Karlsruher SC        1:1
+                 16:00         Hamburger SV - 1. FC Köln           0:2
+   17. Spieltag
+   Fr 17.11.1989 19:30         FC St. Pauli - Fortuna Düsseldorf   1:0
+                 20:00       1. FC Nürnberg - 1. FC Kaiserslautern 0:0
+   Sa 18.11.1989 14:15        FC 08 Homburg - VfB Stuttgart        4:2
+                           Waldhof Mannheim - Hamburger SV         4:1
+                 15:30           1. FC Köln - Eintracht Frankfurt  3:5
+                              Karlsruher SC - VfL Bochum           2:0
+                       Bor. Mönchengladbach - KFC Uerdingen 05     0:1
+                          Borussia Dortmund - Bayern München       2:2
+                              Werder Bremen - Bayer Leverkusen     0:0
+   18. Spieltag
+   Do 23.11.1989 19:30    Borussia Dortmund - Bayer Leverkusen     1:1
+   Sa 25.11.1989 14:15        FC 08 Homburg - KFC Uerdingen 05     1:2
+                           Waldhof Mannheim - Eintracht Frankfurt  1:1
+                 15:30        Werder Bremen - FC St. Pauli         2:1
+                             1. FC Nürnberg - Bayern München       4:0
+                       Bor. Mönchengladbach - 1. FC Kaiserslautern 3:1
+                              Karlsruher SC - VfB Stuttgart        1:0
+                                 1. FC Köln - VfL Bochum           2:0
+                               Hamburger SV - Fortuna Düsseldorf   1:0
+   19. Spieltag
+   Do 30.11.1989 19:30         FC St. Pauli - Borussia Dortmund    2:1
+   Fr 01.12.1989 20:00     Bayer Leverkusen - 1. FC Nürnberg       2:0
+                                 VfL Bochum - Waldhof Mannheim     2:0
+   Sa 02.12.1989 15:30  Eintracht Frankfurt - Hamburger SV         2:0
+                              VfB Stuttgart - 1. FC Köln           3:1
+                           KFC Uerdingen 05 - Karlsruher SC        1:0
+                       1. FC Kaiserslautern - FC 08 Homburg        3:1
+                             Bayern München - Bor. Mönchengladbach 2:0
+                         Fortuna Düsseldorf - Werder Bremen        2:1
+   20. Spieltag
+   Fr 08.12.1989 20:00 Bor. Mönchengladbach - Bayer Leverkusen     1:1
+   Sa 09.12.1989 14:00        FC 08 Homburg - Bayern München       1:3
+                           Waldhof Mannheim - VfB Stuttgart        2:1
+                 15:30       1. FC Nürnberg - FC St. Pauli         0:1
+                              Karlsruher SC - 1. FC Kaiserslautern 0:0
+                                 1. FC Köln - KFC Uerdingen 05     0:1
+                               Hamburger SV - VfL Bochum           1:4
+                          Borussia Dortmund - Werder Bremen        4:1
+                        Eintracht Frankfurt - Fortuna Düsseldorf   2:0
+   21. Spieltag
+   Do 14.12.1989 20:15           VfL Bochum - Eintracht Frankfurt  2:2
+   Fr 15.12.1989 20:00   Fortuna Düsseldorf - Borussia Dortmund    1:1
+   Sa 16.12.1989 14:30       Bayern München - Karlsruher SC        4:1
+                 15:30        VfB Stuttgart - Hamburger SV         3:0
+                       1. FC Kaiserslautern - 1. FC Köln           1:2
+                               FC St. Pauli - Bor. Mönchengladbach 2:1
+                              Werder Bremen - 1. FC Nürnberg       4:0
+                           KFC Uerdingen 05 - Waldhof Mannheim     0:2
+   Sa 17.02.1990 15:30     Bayer Leverkusen - FC 08 Homburg        3:1
+   22. Spieltag
+   Fr 23.02.1990 19:30        FC 08 Homburg - FC St. Pauli         0:2
+                 20:00           1. FC Köln - Bayern München       1:1
+   Sa 24.02.1990 14:30     Waldhof Mannheim - 1. FC Kaiserslautern 4:0
+                 15:30        Karlsruher SC - Bayer Leverkusen     2:1
+                               Hamburger SV - KFC Uerdingen 05     6:0
+                        Eintracht Frankfurt - VfB Stuttgart        5:1
+                       Bor. Mönchengladbach - Werder Bremen        4:0
+                                 VfL Bochum - Fortuna Düsseldorf   1:2
+   Mo 16.04.1990 18:00       1. FC Nürnberg - Borussia Dortmund    1:3
+   23. Spieltag
+   Fr 02.03.1990 19:30         FC St. Pauli - Karlsruher SC        1:1
+                 20:00        Werder Bremen - FC 08 Homburg        0:0
+   Sa 03.03.1990 15:30 1. FC Kaiserslautern - Hamburger SV         1:3
+                           Bayer Leverkusen - 1. FC Köln           0:2
+                          Borussia Dortmund - Bor. Mönchengladbach 3:0
+                         Fortuna Düsseldorf - 1. FC Nürnberg       0:0
+                              VfB Stuttgart - VfL Bochum           1:0
+                           KFC Uerdingen 05 - Eintracht Frankfurt  1:1
+                             Bayern München - Waldhof Mannheim     2:0
+   24. Spieltag
+   Fr 09.03.1990 19:30        FC 08 Homburg - Borussia Dortmund    3:3
+                 20:00 Bor. Mönchengladbach - 1. FC Nürnberg       3:0
+   Sa 10.03.1990 15:30           1. FC Köln - FC St. Pauli         1:0
+                           Waldhof Mannheim - Bayer Leverkusen     1:1
+                               Hamburger SV - Bayern München       0:3
+                        Eintracht Frankfurt - 1. FC Kaiserslautern 1:1
+                                 VfL Bochum - KFC Uerdingen 05     2:1
+                              Karlsruher SC - Werder Bremen        2:1
+                              VfB Stuttgart - Fortuna Düsseldorf   4:0
+   25. Spieltag
+   Do 15.03.1990 20:00         FC St. Pauli - Waldhof Mannheim     2:1
+   Fr 16.03.1990 20:00        Werder Bremen - 1. FC Köln           4:0
+   Sa 17.03.1990 15:30     Bayer Leverkusen - Hamburger SV         1:0
+                          Borussia Dortmund - Karlsruher SC        2:0
+                             1. FC Nürnberg - FC 08 Homburg        2:0
+                         Fortuna Düsseldorf - Bor. Mönchengladbach 0:1
+                           KFC Uerdingen 05 - VfB Stuttgart        4:1
+                             Bayern München - Eintracht Frankfurt  1:0
+                 20:00 1. FC Kaiserslautern - VfL Bochum           2:1
+   26. Spieltag
+   Fr 23.03.1990 20:00  Eintracht Frankfurt - Bayer Leverkusen     0:3
+                              FC 08 Homburg - Bor. Mönchengladbach 1:3
+   Sa 24.03.1990 15:30         Hamburger SV - FC St. Pauli         0:0
+                                 VfL Bochum - Bayern München       0:0
+                              VfB Stuttgart - 1. FC Kaiserslautern 0:1
+                              Karlsruher SC - 1. FC Nürnberg       0:0
+                                 1. FC Köln - Borussia Dortmund    1:1
+                           Waldhof Mannheim - Werder Bremen        0:0
+                           KFC Uerdingen 05 - Fortuna Düsseldorf   0:1
+   27. Spieltag
+   Fr 30.03.1990 20:00   Fortuna Düsseldorf - FC 08 Homburg        1:0
+                          Borussia Dortmund - Waldhof Mannheim     2:0
+   Sa 31.03.1990 15:30        Werder Bremen - Hamburger SV         2:1
+                             1. FC Nürnberg - 1. FC Köln           1:1
+                       Bor. Mönchengladbach - Karlsruher SC        0:0
+                       1. FC Kaiserslautern - KFC Uerdingen 05     2:1
+                             Bayern München - VfB Stuttgart        3:1
+                           Bayer Leverkusen - VfL Bochum           2:1
+                               FC St. Pauli - Eintracht Frankfurt  2:2
+   28. Spieltag
+   Fr 06.04.1990 20:00           VfL Bochum - FC St. Pauli         3:3
+                       1. FC Kaiserslautern - Fortuna Düsseldorf   1:0
+   Sa 07.04.1990 15:30        VfB Stuttgart - Bayer Leverkusen     0:0
+                           KFC Uerdingen 05 - Bayern München       2:2
+                              Karlsruher SC - FC 08 Homburg        0:2
+                                 1. FC Köln - Bor. Mönchengladbach 3:0
+                           Waldhof Mannheim - 1. FC Nürnberg       1:1
+                               Hamburger SV - Borussia Dortmund    1:1
+                        Eintracht Frankfurt - Werder Bremen        1:0
+   29. Spieltag
+   Mi 11.04.1990 20:15    Borussia Dortmund - Eintracht Frankfurt  0:0
+   Do 12.04.1990 19:30         FC St. Pauli - VfB Stuttgart        0:0
+                 20:00       1. FC Nürnberg - Hamburger SV         2:0
+                              FC 08 Homburg - 1. FC Köln           0:1
+                         Fortuna Düsseldorf - Karlsruher SC        0:0
+                             Bayern München - 1. FC Kaiserslautern 3:0
+                           Bayer Leverkusen - KFC Uerdingen 05     1:1
+                              Werder Bremen - VfL Bochum           1:1
+                       Bor. Mönchengladbach - Waldhof Mannheim     2:0
+   30. Spieltag
+   Fr 20.04.1990 20:00     KFC Uerdingen 05 - FC St. Pauli         1:0
+                       1. FC Kaiserslautern - Bayer Leverkusen     2:0
+   Sa 21.04.1990 15:30           1. FC Köln - Karlsruher SC        0:5
+                           Waldhof Mannheim - FC 08 Homburg        1:2
+                               Hamburger SV - Bor. Mönchengladbach 3:0
+                        Eintracht Frankfurt - 1. FC Nürnberg       5:1
+                                 VfL Bochum - Borussia Dortmund    2:3
+                              VfB Stuttgart - Werder Bremen        3:1
+                             Bayern München - Fortuna Düsseldorf   0:0
+   31. Spieltag
+   Fr 27.04.1990 19:30         FC St. Pauli - 1. FC Kaiserslautern 0:2
+                 20:00        FC 08 Homburg - Hamburger SV         0:1
+   Sa 28.04.1990 15:30     Bayer Leverkusen - Bayern München       0:0
+                              Werder Bremen - KFC Uerdingen 05     0:0
+                          Borussia Dortmund - VfB Stuttgart        2:0
+                             1. FC Nürnberg - VfL Bochum           2:1
+                       Bor. Mönchengladbach - Eintracht Frankfurt  2:1
+                              Karlsruher SC - Waldhof Mannheim     4:0
+                 20:00   Fortuna Düsseldorf - 1. FC Köln           1:1
+   32. Spieltag
+   Di 01.05.1990 20:00  Eintracht Frankfurt - FC 08 Homburg        1:1
+                                 VfL Bochum - Bor. Mönchengladbach 2:1
+                              VfB Stuttgart - 1. FC Nürnberg       4:0
+                       1. FC Kaiserslautern - Werder Bremen        2:2
+                                 1. FC Köln - Waldhof Mannheim     6:0
+   Mi 02.05.1990 20:00       Bayern München - FC St. Pauli         1:0
+                         Fortuna Düsseldorf - Bayer Leverkusen     2:0
+                               Hamburger SV - Karlsruher SC        1:0
+                           KFC Uerdingen 05 - Borussia Dortmund    1:3
+   33. Spieltag
+   Sa 05.05.1990 15:30           1. FC Köln - Hamburger SV         2:0
+                               FC St. Pauli - Bayer Leverkusen     3:0
+                              Werder Bremen - Bayern München       2:2
+                          Borussia Dortmund - 1. FC Kaiserslautern 1:1
+                             1. FC Nürnberg - KFC Uerdingen 05     1:1
+                       Bor. Mönchengladbach - VfB Stuttgart        3:1
+                              FC 08 Homburg - VfL Bochum           1:0
+                              Karlsruher SC - Eintracht Frankfurt  1:0
+                           Waldhof Mannheim - Fortuna Düsseldorf   0:1
+   34. Spieltag
+   Sa 12.05.1990 15:30   Fortuna Düsseldorf - FC St. Pauli         7:0
+                        Eintracht Frankfurt - 1. FC Köln           3:1
+                                 VfL Bochum - Karlsruher SC        2:0
+                              VfB Stuttgart - FC 08 Homburg        2:2
+                           KFC Uerdingen 05 - Bor. Mönchengladbach 0:0
+                       1. FC Kaiserslautern - 1. FC Nürnberg       0:2
+                             Bayern München - Borussia Dortmund    3:0
+                           Bayer Leverkusen - Werder Bremen        1:3
+                               Hamburger SV - Waldhof Mannheim     1:0

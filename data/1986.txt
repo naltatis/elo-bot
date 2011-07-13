@@ -1,0 +1,340 @@
+   1. Spieltag
+   Fr 08.08.1986 18:30        FC 08 Homburg - KFC Uerdingen 05     0:2
+                 20:00     Waldhof Mannheim - VfB Stuttgart        3:2
+   Sa 09.08.1986 15:30     Bayer Leverkusen - FC Schalke 04        4:2
+                             Bayern München - Borussia Dortmund    2:2
+                        Eintracht Frankfurt - Fortuna Düsseldorf   5:0
+                                 VfL Bochum - 1. FC Köln           3:1
+                              Werder Bremen - 1. FC Nürnberg       5:3
+                       SV Blau Weiss Berlin - 1. FC Kaiserslautern 1:4
+   Di 19.08.1986 20:00 Bor. Mönchengladbach - Hamburger SV         0:3
+   2. Spieltag
+   Di 12.08.1986 20:00        VfB Stuttgart - FC 08 Homburg        4:0
+   Fr 15.08.1986 20:00           1. FC Köln - Eintracht Frankfurt  0:0
+                          Borussia Dortmund - Bayer Leverkusen     0:0
+   Sa 16.08.1986 15:30 1. FC Kaiserslautern - Bor. Mönchengladbach 1:1
+                             1. FC Nürnberg - VfL Bochum           3:3
+                         Fortuna Düsseldorf - Bayern München       0:3
+                              FC Schalke 04 - Waldhof Mannheim     3:1
+                           KFC Uerdingen 05 - SV Blau Weiss Berlin 2:1
+                               Hamburger SV - Werder Bremen        3:0
+   3. Spieltag
+   Fr 22.08.1986 18:30        FC 08 Homburg - FC Schalke 04        1:1
+                 20:00  Eintracht Frankfurt - 1. FC Nürnberg       1:0
+                              Werder Bremen - 1. FC Kaiserslautern 1:0
+   Sa 23.08.1986 15:30     Waldhof Mannheim - Borussia Dortmund    2:1
+                           Bayer Leverkusen - Fortuna Düsseldorf   5:0
+                             Bayern München - 1. FC Köln           3:0
+                                 VfL Bochum - Hamburger SV         1:1
+                           KFC Uerdingen 05 - VfB Stuttgart        2:2
+                       SV Blau Weiss Berlin - Bor. Mönchengladbach 3:2
+   4. Spieltag
+   Di 02.09.1986 20:00           1. FC Köln - Bayer Leverkusen     1:4
+                         Fortuna Düsseldorf - Waldhof Mannheim     2:0
+                          Borussia Dortmund - FC 08 Homburg        3:0
+                              FC Schalke 04 - KFC Uerdingen 05     2:1
+                       Bor. Mönchengladbach - Werder Bremen        1:2
+                               Hamburger SV - Eintracht Frankfurt  2:0
+   Mi 03.09.1986 20:00 1. FC Kaiserslautern - VfL Bochum           4:1
+                             1. FC Nürnberg - Bayern München       1:2
+                              VfB Stuttgart - SV Blau Weiss Berlin 1:1
+   5. Spieltag
+   Sa 06.09.1986 15:30        FC 08 Homburg - Fortuna Düsseldorf   3:1
+                           Waldhof Mannheim - 1. FC Köln           2:0
+                           Bayer Leverkusen - 1. FC Nürnberg       2:0
+                             Bayern München - Hamburger SV         3:1
+                        Eintracht Frankfurt - 1. FC Kaiserslautern 2:2
+                                 VfL Bochum - Bor. Mönchengladbach 1:1
+                              VfB Stuttgart - FC Schalke 04        4:0
+                           KFC Uerdingen 05 - Borussia Dortmund    2:4
+                       SV Blau Weiss Berlin - Werder Bremen        1:4
+   6. Spieltag
+   Fr 12.09.1986 20:00       1. FC Nürnberg - Waldhof Mannheim     1:1
+                              FC Schalke 04 - SV Blau Weiss Berlin 3:0
+                              Werder Bremen - VfL Bochum           0:0
+   Sa 13.09.1986 15:30 1. FC Kaiserslautern - Bayern München       1:1
+                                 1. FC Köln - FC 08 Homburg        3:0
+                         Fortuna Düsseldorf - KFC Uerdingen 05     1:1
+                          Borussia Dortmund - VfB Stuttgart        1:2
+                       Bor. Mönchengladbach - Eintracht Frankfurt  1:1
+                               Hamburger SV - Bayer Leverkusen     2:1
+   7. Spieltag
+   Sa 20.09.1986 15:30        FC 08 Homburg - 1. FC Nürnberg       2:0
+                           Waldhof Mannheim - Hamburger SV         2:2
+                           Bayer Leverkusen - 1. FC Kaiserslautern 1:0
+                             Bayern München - Bor. Mönchengladbach 3:1
+                        Eintracht Frankfurt - Werder Bremen        2:2
+                              FC Schalke 04 - Borussia Dortmund    2:1
+                              VfB Stuttgart - Fortuna Düsseldorf   3:0
+                           KFC Uerdingen 05 - 1. FC Köln           3:1
+                       SV Blau Weiss Berlin - VfL Bochum           0:0
+   8. Spieltag
+   Fr 26.09.1986 20:00    Borussia Dortmund - SV Blau Weiss Berlin 7:0
+   Sa 27.09.1986 15:30 1. FC Kaiserslautern - Waldhof Mannheim     3:2
+                             1. FC Nürnberg - KFC Uerdingen 05     1:1
+                                 1. FC Köln - VfB Stuttgart        0:0
+                         Fortuna Düsseldorf - FC Schalke 04        3:4
+                                 VfL Bochum - Eintracht Frankfurt  2:0
+                              Werder Bremen - Bayern München       1:1
+                       Bor. Mönchengladbach - Bayer Leverkusen     2:1
+                               Hamburger SV - FC 08 Homburg        3:1
+   9. Spieltag
+   Fr 03.10.1986 20:00    Borussia Dortmund - Fortuna Düsseldorf   4:1
+   Sa 04.10.1986 15:30        FC 08 Homburg - 1. FC Kaiserslautern 1:1
+                           Waldhof Mannheim - Bor. Mönchengladbach 1:1
+                             Bayern München - VfL Bochum           3:2
+                              FC Schalke 04 - 1. FC Köln           2:4
+                              VfB Stuttgart - 1. FC Nürnberg       1:1
+                           KFC Uerdingen 05 - Hamburger SV         1:0
+                       SV Blau Weiss Berlin - Eintracht Frankfurt  2:2
+                 19:30     Bayer Leverkusen - Werder Bremen        4:1
+   10. Spieltag
+   Fr 10.10.1986 20:00 1. FC Kaiserslautern - KFC Uerdingen 05     1:0
+                              Werder Bremen - Waldhof Mannheim     4:2
+                               Hamburger SV - VfB Stuttgart        2:0
+   Sa 11.10.1986 15:30       1. FC Nürnberg - FC Schalke 04        2:1
+                                 1. FC Köln - Borussia Dortmund    2:0
+                         Fortuna Düsseldorf - SV Blau Weiss Berlin 3:1
+                        Eintracht Frankfurt - Bayern München       0:0
+                                 VfL Bochum - Bayer Leverkusen     2:1
+                       Bor. Mönchengladbach - FC 08 Homburg        5:0
+   11. Spieltag
+   Fr 17.10.1986 19:30     Bayer Leverkusen - Eintracht Frankfurt  2:0
+                 20:00    Borussia Dortmund - 1. FC Nürnberg       2:2
+   Sa 18.10.1986 15:30        FC 08 Homburg - Werder Bremen        0:1
+                           Waldhof Mannheim - VfL Bochum           0:0
+                         Fortuna Düsseldorf - 1. FC Köln           0:4
+                              FC Schalke 04 - Hamburger SV         1:1
+                              VfB Stuttgart - 1. FC Kaiserslautern 1:1
+                           KFC Uerdingen 05 - Bor. Mönchengladbach 1:1
+                       SV Blau Weiss Berlin - Bayern München       1:1
+   12. Spieltag
+   Sa 01.11.1986 15:30       1. FC Nürnberg - Fortuna Düsseldorf   4:3
+                        Eintracht Frankfurt - Waldhof Mannheim     2:1
+                              Werder Bremen - KFC Uerdingen 05     5:1
+                               Hamburger SV - Borussia Dortmund    4:2
+                 17:30       Bayern München - Bayer Leverkusen     0:3
+                 18:00 1. FC Kaiserslautern - FC Schalke 04        5:1
+                                 1. FC Köln - SV Blau Weiss Berlin 1:1
+                                 VfL Bochum - FC 08 Homburg        0:0
+                       Bor. Mönchengladbach - VfB Stuttgart        4:0
+   13. Spieltag
+   Fr 07.11.1986 20:00    Borussia Dortmund - 1. FC Kaiserslautern 2:0
+   Sa 08.11.1986 14:30        FC 08 Homburg - Eintracht Frankfurt  1:1
+                 15:30     Waldhof Mannheim - Bayern München       3:3
+                                 1. FC Köln - 1. FC Nürnberg       3:1
+                         Fortuna Düsseldorf - Hamburger SV         3:2
+                              FC Schalke 04 - Bor. Mönchengladbach 1:2
+                              VfB Stuttgart - Werder Bremen        4:0
+                           KFC Uerdingen 05 - VfL Bochum           3:1
+                       SV Blau Weiss Berlin - Bayer Leverkusen     0:1
+   14. Spieltag
+   Fr 14.11.1986 19:30     Bayer Leverkusen - Waldhof Mannheim     0:0
+                 20:00        Werder Bremen - FC Schalke 04        0:0
+   Sa 15.11.1986 15:30 1. FC Kaiserslautern - Fortuna Düsseldorf   3:1
+                             1. FC Nürnberg - SV Blau Weiss Berlin 7:2
+                             Bayern München - FC 08 Homburg        3:0
+                        Eintracht Frankfurt - KFC Uerdingen 05     1:0
+                                 VfL Bochum - VfB Stuttgart        0:1
+                       Bor. Mönchengladbach - Borussia Dortmund    2:2
+                               Hamburger SV - 1. FC Köln           1:0
+   15. Spieltag
+   Sa 22.11.1986 14:00        FC 08 Homburg - Bayer Leverkusen     1:2
+                 15:30     Waldhof Mannheim - SV Blau Weiss Berlin 1:1
+                                 1. FC Köln - 1. FC Kaiserslautern 2:2
+                         Fortuna Düsseldorf - Bor. Mönchengladbach 1:1
+                          Borussia Dortmund - Werder Bremen        2:1
+                              FC Schalke 04 - VfL Bochum           0:0
+                              VfB Stuttgart - Eintracht Frankfurt  4:1
+                           KFC Uerdingen 05 - Bayern München       0:0
+                               Hamburger SV - 1. FC Nürnberg       1:1
+   16. Spieltag
+   Fr 28.11.1986 20:00 1. FC Kaiserslautern - 1. FC Nürnberg       2:1
+                                 VfL Bochum - Borussia Dortmund    0:0
+                              Werder Bremen - Fortuna Düsseldorf   5:2
+   Sa 29.11.1986 15:30     Waldhof Mannheim - FC 08 Homburg        5:1
+                           Bayer Leverkusen - KFC Uerdingen 05     1:4
+                             Bayern München - VfB Stuttgart        1:0
+                        Eintracht Frankfurt - FC Schalke 04        0:1
+                       Bor. Mönchengladbach - 1. FC Köln           3:1
+                       SV Blau Weiss Berlin - Hamburger SV         1:3
+   17. Spieltag
+   Fr 05.12.1986 20:00           1. FC Köln - Werder Bremen        3:0
+                          Borussia Dortmund - Eintracht Frankfurt  1:0
+   Sa 06.12.1986 14:00        FC 08 Homburg - SV Blau Weiss Berlin 2:1
+                 15:30       1. FC Nürnberg - Bor. Mönchengladbach 2:0
+                         Fortuna Düsseldorf - VfL Bochum           0:4
+                              FC Schalke 04 - Bayern München       2:2
+                              VfB Stuttgart - Bayer Leverkusen     1:0
+                           KFC Uerdingen 05 - Waldhof Mannheim     3:2
+                               Hamburger SV - 1. FC Kaiserslautern 2:0
+   18. Spieltag
+   Sa 21.02.1987 15:30    Borussia Dortmund - Bayern München       2:2
+                         Fortuna Düsseldorf - Eintracht Frankfurt  3:3
+                                 1. FC Köln - VfL Bochum           1:0
+                             1. FC Nürnberg - Werder Bremen        5:1
+                               Hamburger SV - Bor. Mönchengladbach 3:1
+                       1. FC Kaiserslautern - SV Blau Weiss Berlin 2:0
+   So 08.03.1987 15:30        VfB Stuttgart - Waldhof Mannheim     2:1
+   Mi 01.04.1987 20:00     KFC Uerdingen 05 - FC 08 Homburg        2:1
+   Di 21.04.1987 20:00        FC Schalke 04 - Bayer Leverkusen     1:2
+   19. Spieltag
+   Sa 28.02.1987 14:30        FC 08 Homburg - VfB Stuttgart        2:1
+                 15:30 Bor. Mönchengladbach - 1. FC Kaiserslautern 0:1
+                                 VfL Bochum - 1. FC Nürnberg       0:1
+                        Eintracht Frankfurt - 1. FC Köln           1:2
+                             Bayern München - Fortuna Düsseldorf   3:0
+                           Waldhof Mannheim - FC Schalke 04        2:0
+                              Werder Bremen - Hamburger SV         2:1
+   Sa 07.03.1987 20:00     Bayer Leverkusen - Borussia Dortmund    3:2
+   Di 21.04.1987 20:00 SV Blau Weiss Berlin - KFC Uerdingen 05     1:1
+   20. Spieltag
+   Fr 13.03.1987 15:30 1. FC Kaiserslautern - Werder Bremen        1:3
+   Sa 14.03.1987 15:30        FC Schalke 04 - FC 08 Homburg        4:0
+                          Borussia Dortmund - Waldhof Mannheim     6:0
+                         Fortuna Düsseldorf - Bayer Leverkusen     2:3
+                                 1. FC Köln - Bayern München       1:1
+                             1. FC Nürnberg - Eintracht Frankfurt  1:0
+                               Hamburger SV - VfL Bochum           1:1
+                              VfB Stuttgart - KFC Uerdingen 05     2:0
+                       Bor. Mönchengladbach - SV Blau Weiss Berlin 2:1
+   21. Spieltag
+   Fr 20.03.1987 20:00  Eintracht Frankfurt - Hamburger SV         1:3
+   Sa 21.03.1987 15:30           VfL Bochum - 1. FC Kaiserslautern 3:1
+                             Bayern München - 1. FC Nürnberg       4:0
+                           Bayer Leverkusen - 1. FC Köln           0:1
+                           Waldhof Mannheim - Fortuna Düsseldorf   1:1
+                           KFC Uerdingen 05 - FC Schalke 04        0:0
+                              Werder Bremen - Bor. Mönchengladbach 1:7
+   Di 07.04.1987 20:00        FC 08 Homburg - Borussia Dortmund    2:2
+   Di 05.05.1987 20:00 SV Blau Weiss Berlin - VfB Stuttgart        0:2
+   22. Spieltag
+   Fr 27.03.1987 20:00        Werder Bremen - SV Blau Weiss Berlin 2:0
+   Sa 28.03.1987 15:30   Fortuna Düsseldorf - FC 08 Homburg        1:0
+                                 1. FC Köln - Waldhof Mannheim     2:1
+                             1. FC Nürnberg - Bayer Leverkusen     1:1
+                               Hamburger SV - Bayern München       1:2
+                       1. FC Kaiserslautern - Eintracht Frankfurt  2:1
+                       Bor. Mönchengladbach - VfL Bochum           2:1
+                              FC Schalke 04 - VfB Stuttgart        2:1
+                          Borussia Dortmund - KFC Uerdingen 05     1:1
+   23. Spieltag
+   Fr 03.04.1987 20:00     Waldhof Mannheim - 1. FC Nürnberg       3:0
+   Sa 04.04.1987 15:30       Bayern München - 1. FC Kaiserslautern 3:0
+                              FC 08 Homburg - 1. FC Köln           1:3
+                           KFC Uerdingen 05 - Fortuna Düsseldorf   4:1
+                              VfB Stuttgart - Borussia Dortmund    3:0
+                       SV Blau Weiss Berlin - FC Schalke 04        0:0
+                                 VfL Bochum - Werder Bremen        1:1
+                        Eintracht Frankfurt - Bor. Mönchengladbach 4:0
+                           Bayer Leverkusen - Hamburger SV         0:1
+   24. Spieltag
+   Fr 10.04.1987 20:00       1. FC Nürnberg - FC 08 Homburg        2:2
+                              Werder Bremen - Eintracht Frankfurt  4:1
+                                 VfL Bochum - SV Blau Weiss Berlin 5:1
+   Sa 11.04.1987 15:30         Hamburger SV - Waldhof Mannheim     1:0
+                       1. FC Kaiserslautern - Bayer Leverkusen     1:1
+                       Bor. Mönchengladbach - Bayern München       0:1
+                          Borussia Dortmund - FC Schalke 04        1:0
+                         Fortuna Düsseldorf - VfB Stuttgart        1:0
+                                 1. FC Köln - KFC Uerdingen 05     1:2
+   25. Spieltag
+   Di 14.04.1987 18:15        FC 08 Homburg - Hamburger SV         1:1
+                 19:30     Bayer Leverkusen - Bor. Mönchengladbach 0:2
+                 20:00        FC Schalke 04 - Fortuna Düsseldorf   4:2
+                       SV Blau Weiss Berlin - Borussia Dortmund    1:1
+   Mi 15.04.1987 20:00     Waldhof Mannheim - 1. FC Kaiserslautern 4:3
+                           KFC Uerdingen 05 - 1. FC Nürnberg       3:4
+                              VfB Stuttgart - 1. FC Köln           5:1
+                        Eintracht Frankfurt - VfL Bochum           1:1
+                             Bayern München - Werder Bremen        3:2
+   26. Spieltag
+   Fr 24.04.1987 20:00 1. FC Kaiserslautern - FC 08 Homburg        5:0
+                         Fortuna Düsseldorf - Borussia Dortmund    0:4
+                        Eintracht Frankfurt - SV Blau Weiss Berlin 1:3
+   Sa 25.04.1987 15:30 Bor. Mönchengladbach - Waldhof Mannheim     7:2
+                              Werder Bremen - Bayer Leverkusen     1:0
+                                 VfL Bochum - Bayern München       1:2
+                                 1. FC Köln - FC Schalke 04        3:2
+                             1. FC Nürnberg - VfB Stuttgart        2:1
+                               Hamburger SV - KFC Uerdingen 05     2:1
+   27. Spieltag
+   Sa 07.03.1987 15:30        FC Schalke 04 - 1. FC Nürnberg       2:4
+   Fr 01.05.1987 15:30    Borussia Dortmund - 1. FC Köln           1:1
+                       SV Blau Weiss Berlin - Fortuna Düsseldorf   1:2
+   Sa 02.05.1987 15:30     KFC Uerdingen 05 - 1. FC Kaiserslautern 1:2
+                           Bayer Leverkusen - VfL Bochum           2:1
+                           Waldhof Mannheim - Werder Bremen        1:0
+                              FC 08 Homburg - Bor. Mönchengladbach 0:2
+                              VfB Stuttgart - Hamburger SV         1:1
+   Di 12.05.1987 15:30       Bayern München - Eintracht Frankfurt  2:1
+   28. Spieltag
+   Fr 08.05.1987 20:00        Werder Bremen - FC 08 Homburg        6:0
+                                 1. FC Köln - Fortuna Düsseldorf   1:0
+                               Hamburger SV - FC Schalke 04        4:0
+   Sa 09.05.1987 15:30           VfL Bochum - Waldhof Mannheim     6:1
+                        Eintracht Frankfurt - Bayer Leverkusen     1:0
+                             1. FC Nürnberg - Borussia Dortmund    1:2
+                       1. FC Kaiserslautern - VfB Stuttgart        3:0
+                       Bor. Mönchengladbach - KFC Uerdingen 05     2:0
+                             Bayern München - SV Blau Weiss Berlin 2:0
+   29. Spieltag
+   Fr 15.05.1987 20:00     KFC Uerdingen 05 - Werder Bremen        1:1
+                              VfB Stuttgart - Bor. Mönchengladbach 2:4
+                          Borussia Dortmund - Hamburger SV         4:3
+   Sa 16.05.1987 15:30        FC Schalke 04 - 1. FC Kaiserslautern 3:2
+                         Fortuna Düsseldorf - 1. FC Nürnberg       1:1
+                       SV Blau Weiss Berlin - 1. FC Köln           1:1
+                           Bayer Leverkusen - Bayern München       0:0
+                           Waldhof Mannheim - Eintracht Frankfurt  2:1
+                              FC 08 Homburg - VfL Bochum           3:1
+   30. Spieltag
+   Fr 22.05.1987 19:30     Bayer Leverkusen - SV Blau Weiss Berlin 2:2
+                 20:00 1. FC Kaiserslautern - Borussia Dortmund    2:3
+                              Werder Bremen - VfB Stuttgart        1:0
+   Sa 23.05.1987 15:30  Eintracht Frankfurt - FC 08 Homburg        4:0
+                             Bayern München - Waldhof Mannheim     3:0
+                             1. FC Nürnberg - 1. FC Köln           1:1
+                               Hamburger SV - Fortuna Düsseldorf   4:1
+                       Bor. Mönchengladbach - FC Schalke 04        3:1
+                                 VfL Bochum - KFC Uerdingen 05     2:1
+   31. Spieltag
+   Do 28.05.1987 15:00 SV Blau Weiss Berlin - 1. FC Nürnberg       1:4
+   Fr 29.05.1987 20:00        VfB Stuttgart - VfL Bochum           2:4
+                              FC Schalke 04 - Werder Bremen        1:0
+   Sa 30.05.1987 15:30   Fortuna Düsseldorf - 1. FC Kaiserslautern 1:3
+                           Waldhof Mannheim - Bayer Leverkusen     2:1
+                              FC 08 Homburg - Bayern München       2:2
+                           KFC Uerdingen 05 - Eintracht Frankfurt  1:0
+                          Borussia Dortmund - Bor. Mönchengladbach 0:2
+                                 1. FC Köln - Hamburger SV         1:1
+   32. Spieltag
+   Do 04.06.1987 19:30     Bayer Leverkusen - FC 08 Homburg        4:2
+   Fr 05.06.1987 19:30  Eintracht Frankfurt - VfB Stuttgart        3:1
+                 20:00           VfL Bochum - FC Schalke 04        1:1
+   Sa 06.06.1987 15:30 1. FC Kaiserslautern - 1. FC Köln           5:1
+                       Bor. Mönchengladbach - Fortuna Düsseldorf   4:1
+                              Werder Bremen - Borussia Dortmund    5:0
+                             Bayern München - KFC Uerdingen 05     2:2
+                             1. FC Nürnberg - Hamburger SV         3:3
+   Mi 10.06.1987 20:00 SV Blau Weiss Berlin - Waldhof Mannheim     4:1
+   33. Spieltag
+   Sa 13.06.1987 15:30       1. FC Nürnberg - 1. FC Kaiserslautern 2:1
+                              FC 08 Homburg - Waldhof Mannheim     2:1
+                           KFC Uerdingen 05 - Bayer Leverkusen     1:1
+                              VfB Stuttgart - Bayern München       1:3
+                              FC Schalke 04 - Eintracht Frankfurt  3:1
+                          Borussia Dortmund - VfL Bochum           3:2
+                         Fortuna Düsseldorf - Werder Bremen        2:1
+                                 1. FC Köln - Bor. Mönchengladbach 2:4
+                               Hamburger SV - SV Blau Weiss Berlin 2:1
+   34. Spieltag
+   Mi 17.06.1987 15:30 SV Blau Weiss Berlin - FC 08 Homburg        2:2
+                       Bor. Mönchengladbach - 1. FC Nürnberg       4:0
+                              Werder Bremen - 1. FC Köln           2:1
+                                 VfL Bochum - Fortuna Düsseldorf   2:2
+                             Bayern München - FC Schalke 04        1:0
+                           Bayer Leverkusen - VfB Stuttgart        4:1
+                           Waldhof Mannheim - KFC Uerdingen 05     2:3
+                       1. FC Kaiserslautern - Hamburger SV         0:4
+   Di 23.06.1987 06:30  Eintracht Frankfurt - Borussia Dortmund    0:4

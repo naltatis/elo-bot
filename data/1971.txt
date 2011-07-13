@@ -1,0 +1,340 @@
+   1. Spieltag
+   Sa 14.08.1971 15:30         Bayern München - Fortuna Düsseldorf     3:1
+                                   1. FC Köln - Werder Bremen          0:0
+                                 MSV Duisburg - Borussia Dortmund      2:1
+                                   VfL Bochum - Eintracht Braunschweig 1:0
+                            Arminia Bielefeld - Rot-Weiß Oberhausen    0:1
+                                 Hamburger SV - Eintracht Frankfurt    5:1
+                                VfB Stuttgart - Hertha BSC             3:0
+                                  Hannover 96 - FC Schalke 04          1:5
+                         1. FC Kaiserslautern - Bor. Mönchengladbach   1:0
+   2. Spieltag
+   Sa 21.08.1971 15:30      Borussia Dortmund - Hamburger SV           1:1
+                                Werder Bremen - 1. FC Kaiserslautern   2:2
+                           Fortuna Düsseldorf - Hannover 96            2:0
+                                   Hertha BSC - Bayern München         2:2
+                       Eintracht Braunschweig - VfB Stuttgart          1:1
+                          Rot-Weiß Oberhausen - VfL Bochum             2:3
+                                FC Schalke 04 - MSV Duisburg           2:0
+                          Eintracht Frankfurt - 1. FC Köln             2:2
+                         Bor. Mönchengladbach - Arminia Bielefeld      5:1
+   3. Spieltag
+   Sa 28.08.1971 15:30    Eintracht Frankfurt - Werder Bremen          4:0
+                                   VfL Bochum - Bor. Mönchengladbach   0:2
+                                  Hannover 96 - Hertha BSC             1:1
+                            Arminia Bielefeld - 1. FC Kaiserslautern   1:1
+                                 MSV Duisburg - Fortuna Düsseldorf     0:0
+                                VfB Stuttgart - Rot-Weiß Oberhausen    1:1
+                               Bayern München - Eintracht Braunschweig 4:1
+                                 Hamburger SV - FC Schalke 04          0:1
+                                   1. FC Köln - Borussia Dortmund      2:1
+   4. Spieltag
+   Mi 01.09.1971 20:00    Rot-Weiß Oberhausen - Bayern München         1:1
+                            Borussia Dortmund - Eintracht Frankfurt    3:1
+                         Bor. Mönchengladbach - VfB Stuttgart          0:0
+                       Eintracht Braunschweig - Hannover 96            3:0
+                                Werder Bremen - Arminia Bielefeld      4:0
+                         1. FC Kaiserslautern - VfL Bochum             4:1
+                                   Hertha BSC - MSV Duisburg           1:0
+                           Fortuna Düsseldorf - Hamburger SV           0:0
+                                FC Schalke 04 - 1. FC Köln             6:2
+   5. Spieltag
+   Sa 04.09.1971 15:30         Bayern München - Bor. Mönchengladbach   2:0
+                                   1. FC Köln - Fortuna Düsseldorf     1:2
+                                 MSV Duisburg - Eintracht Braunschweig 0:0
+                                VfB Stuttgart - 1. FC Kaiserslautern   3:1
+                          Eintracht Frankfurt - FC Schalke 04          2:0
+                                   VfL Bochum - Arminia Bielefeld      2:1
+                            Borussia Dortmund - Werder Bremen          1:5
+                                 Hamburger SV - Hertha BSC             1:2
+                                  Hannover 96 - Rot-Weiß Oberhausen    1:0
+   6. Spieltag
+   Sa 11.09.1971 15:30   Bor. Mönchengladbach - Hannover 96            3:0
+                       Eintracht Braunschweig - Hamburger SV           1:1
+                          Rot-Weiß Oberhausen - MSV Duisburg           0:1
+                                   Hertha BSC - 1. FC Köln             1:1
+                                Werder Bremen - VfL Bochum             2:0
+                            Arminia Bielefeld - VfB Stuttgart          1:0
+                                FC Schalke 04 - Borussia Dortmund      1:0
+                         1. FC Kaiserslautern - Bayern München         0:2
+                           Fortuna Düsseldorf - Eintracht Frankfurt    1:0
+   7. Spieltag
+   Sa 18.09.1971 15:30           Hamburger SV - Rot-Weiß Oberhausen    3:0
+                                 MSV Duisburg - Bor. Mönchengladbach   1:5
+                                   1. FC Köln - Eintracht Braunschweig 2:0
+                                  Hannover 96 - 1. FC Kaiserslautern   1:2
+                          Eintracht Frankfurt - Hertha BSC             1:1
+                                FC Schalke 04 - Werder Bremen          2:0
+                                VfB Stuttgart - VfL Bochum             3:2
+                            Borussia Dortmund - Fortuna Düsseldorf     1:0
+                               Bayern München - Arminia Bielefeld      1:1
+   8. Spieltag
+   Sa 25.09.1971 15:30   1. FC Kaiserslautern - MSV Duisburg           1:0
+                         Bor. Mönchengladbach - Hamburger SV           1:0
+                                   VfL Bochum - Bayern München         0:2
+                          Rot-Weiß Oberhausen - 1. FC Köln             1:1
+                       Eintracht Braunschweig - Eintracht Frankfurt    2:0
+                            Arminia Bielefeld - Hannover 96            1:0
+                                   Hertha BSC - Borussia Dortmund      2:1
+                                Werder Bremen - VfB Stuttgart          2:3
+                           Fortuna Düsseldorf - FC Schalke 04          0:2
+   9. Spieltag
+   Sa 02.10.1971 15:30          FC Schalke 04 - Hertha BSC             4:0
+                                   1. FC Köln - Bor. Mönchengladbach   4:3
+                                 MSV Duisburg - Arminia Bielefeld      4:0
+                           Fortuna Düsseldorf - Werder Bremen          1:3
+                               Bayern München - VfB Stuttgart          2:2
+                          Eintracht Frankfurt - Rot-Weiß Oberhausen    3:0
+                                  Hannover 96 - VfL Bochum             4:0
+                            Borussia Dortmund - Eintracht Braunschweig 2:2
+                                 Hamburger SV - 1. FC Kaiserslautern   4:0
+   10. Spieltag
+   Mi 13.10.1971 20:00    Rot-Weiß Oberhausen - Borussia Dortmund      1:1
+                                   Hertha BSC - Fortuna Düsseldorf     1:1
+                                   VfL Bochum - MSV Duisburg           3:1
+                         1. FC Kaiserslautern - 1. FC Köln             2:0
+                         Bor. Mönchengladbach - Eintracht Frankfurt    6:2
+                       Eintracht Braunschweig - FC Schalke 04          0:0
+                                VfB Stuttgart - Hannover 96            3:2
+                            Arminia Bielefeld - Hamburger SV           2:2
+                                Werder Bremen - Bayern München         1:2
+   11. Spieltag
+   Sa 16.10.1971 15:30      Borussia Dortmund - Bor. Mönchengladbach   0:0
+                                   1. FC Köln - Arminia Bielefeld      1:0
+                          Eintracht Frankfurt - 1. FC Kaiserslautern   1:0
+                                 Hamburger SV - VfL Bochum             3:2
+                                  Hannover 96 - Bayern München         1:3
+                                   Hertha BSC - Werder Bremen          2:1
+                                FC Schalke 04 - Rot-Weiß Oberhausen    4:0
+                                 MSV Duisburg - VfB Stuttgart          1:2
+                           Fortuna Düsseldorf - Eintracht Braunschweig 0:0
+   12. Spieltag
+   Sa 23.10.1971 15:30   1. FC Kaiserslautern - Borussia Dortmund      6:0
+                         Bor. Mönchengladbach - FC Schalke 04          7:0
+                                   VfL Bochum - 1. FC Köln             1:5
+                          Rot-Weiß Oberhausen - Fortuna Düsseldorf     2:0
+                               Bayern München - MSV Duisburg           5:1
+                                Werder Bremen - Hannover 96            2:1
+                                VfB Stuttgart - Hamburger SV           0:3
+                            Arminia Bielefeld - Eintracht Frankfurt    3:4
+                       Eintracht Braunschweig - Hertha BSC             1:1
+   13. Spieltag
+   Sa 30.10.1971 15:30           MSV Duisburg - Hannover 96            2:1
+                            Borussia Dortmund - Arminia Bielefeld      1:0
+                           Fortuna Düsseldorf - Bor. Mönchengladbach   0:2
+                          Eintracht Frankfurt - VfL Bochum             3:2
+                                FC Schalke 04 - 1. FC Kaiserslautern   3:0
+                                 Hamburger SV - Bayern München         1:4
+                       Eintracht Braunschweig - Werder Bremen          1:1
+                                   Hertha BSC - Rot-Weiß Oberhausen    2:0
+                                   1. FC Köln - VfB Stuttgart          4:1
+   14. Spieltag
+   Sa 06.11.1971 15:30      Arminia Bielefeld - FC Schalke 04          1:1
+                          Rot-Weiß Oberhausen - Eintracht Braunschweig 1:1
+                               Bayern München - 1. FC Köln             1:1
+                                VfB Stuttgart - Eintracht Frankfurt    4:4
+                         1. FC Kaiserslautern - Fortuna Düsseldorf     3:1
+                                  Hannover 96 - Hamburger SV           2:3
+                                Werder Bremen - MSV Duisburg           1:1
+                                   VfL Bochum - Borussia Dortmund      4:2
+                         Bor. Mönchengladbach - Hertha BSC             5:2
+   15. Spieltag
+   Sa 13.11.1971 15:30      Borussia Dortmund - VfB Stuttgart          0:4
+                                 MSV Duisburg - Hamburger SV           2:4
+                                FC Schalke 04 - VfL Bochum             4:1
+                           Fortuna Düsseldorf - Arminia Bielefeld      3:2
+                          Eintracht Frankfurt - Bayern München         3:2
+                                   Hertha BSC - 1. FC Kaiserslautern   2:1
+                                   1. FC Köln - Hannover 96            3:1
+                                Werder Bremen - Rot-Weiß Oberhausen    4:0
+                       Eintracht Braunschweig - Bor. Mönchengladbach   2:1
+   16. Spieltag
+   Sa 27.11.1971 15:30           MSV Duisburg - 1. FC Köln             1:1
+                         Bor. Mönchengladbach - Rot-Weiß Oberhausen    5:2
+                               Bayern München - Borussia Dortmund      11:1
+                                   VfL Bochum - Fortuna Düsseldorf     3:1
+                                VfB Stuttgart - FC Schalke 04          0:1
+                            Arminia Bielefeld - Hertha BSC             1:1
+                                 Hamburger SV - Werder Bremen          2:1
+                         1. FC Kaiserslautern - Eintracht Braunschweig 2:2
+                                  Hannover 96 - Eintracht Frankfurt    3:1
+   17. Spieltag
+   Sa 11.12.1971 15:30    Rot-Weiß Oberhausen - 1. FC Kaiserslautern   2:5
+                                   Hertha BSC - VfL Bochum             1:2
+                            Borussia Dortmund - Hannover 96            1:1
+                          Eintracht Frankfurt - MSV Duisburg           2:1
+                       Eintracht Braunschweig - Arminia Bielefeld      3:2
+                                   1. FC Köln - Hamburger SV           3:0
+                                Werder Bremen - Bor. Mönchengladbach   2:2
+                                FC Schalke 04 - Bayern München         1:0
+                           Fortuna Düsseldorf - VfB Stuttgart          4:0
+   18. Spieltag
+   Fr 21.01.1972 20:00    Rot-Weiß Oberhausen - Arminia Bielefeld      2:0
+   Sa 22.01.1972 15:00    Eintracht Frankfurt - Hamburger SV           4:0
+                 15:30     Fortuna Düsseldorf - Bayern München         0:1
+                                Werder Bremen - 1. FC Köln             2:2
+                            Borussia Dortmund - MSV Duisburg           2:3
+                       Eintracht Braunschweig - VfL Bochum             0:2
+                                   Hertha BSC - VfB Stuttgart          2:1
+                                FC Schalke 04 - Hannover 96            5:0
+                         Bor. Mönchengladbach - 1. FC Kaiserslautern   2:1
+   19. Spieltag
+   Sa 29.01.1972 14:30          VfB Stuttgart - Eintracht Braunschweig 3:1
+                                   VfL Bochum - Rot-Weiß Oberhausen    2:0
+                 15:30           Hamburger SV - Borussia Dortmund      0:0
+                                  Hannover 96 - Fortuna Düsseldorf     5:0
+                               Bayern München - Hertha BSC             1:0
+                                 MSV Duisburg - FC Schalke 04          2:0
+                            Arminia Bielefeld - Bor. Mönchengladbach   2:3
+   Di 07.03.1972 20:00   1. FC Kaiserslautern - Werder Bremen          2:1
+                                   1. FC Köln - Eintracht Frankfurt    1:1
+   20. Spieltag
+   Sa 05.02.1972 15:00     Fortuna Düsseldorf - MSV Duisburg           0:0
+                 15:30          Werder Bremen - Eintracht Frankfurt    3:1
+                         1. FC Kaiserslautern - Arminia Bielefeld      2:1
+                       Eintracht Braunschweig - Bayern München         1:1
+                                FC Schalke 04 - Hamburger SV           3:0
+                 20:00             Hertha BSC - Hannover 96            3:1
+   Di 08.02.1972 20:00   Bor. Mönchengladbach - VfL Bochum             1:1
+   Di 07.03.1972 20:00    Rot-Weiß Oberhausen - VfB Stuttgart          1:1
+   Di 21.03.1972 20:00      Borussia Dortmund - 1. FC Köln             0:0
+   21. Spieltag
+   Sa 19.02.1972 15:00          VfB Stuttgart - Bor. Mönchengladbach   0:1
+                                   VfL Bochum - 1. FC Kaiserslautern   4:2
+                 15:30         Bayern München - Rot-Weiß Oberhausen    7:0
+                          Eintracht Frankfurt - Borussia Dortmund      5:2
+                                  Hannover 96 - Eintracht Braunschweig 3:0
+                            Arminia Bielefeld - Werder Bremen          1:0
+                                 MSV Duisburg - Hertha BSC             2:0
+                                 Hamburger SV - Fortuna Düsseldorf     3:3
+                                   1. FC Köln - FC Schalke 04          0:1
+   22. Spieltag
+   Sa 26.02.1972 15:30   Bor. Mönchengladbach - Bayern München         2:2
+                           Fortuna Düsseldorf - 1. FC Köln             1:1
+                       Eintracht Braunschweig - MSV Duisburg           2:0
+                         1. FC Kaiserslautern - VfB Stuttgart          3:1
+                                FC Schalke 04 - Eintracht Frankfurt    2:0
+                            Arminia Bielefeld - VfL Bochum             3:1
+                                Werder Bremen - Borussia Dortmund      3:1
+                                   Hertha BSC - Hamburger SV           2:0
+                          Rot-Weiß Oberhausen - Hannover 96            3:2
+   23. Spieltag
+   Sa 04.03.1972 15:30            Hannover 96 - Bor. Mönchengladbach   2:0
+                                 Hamburger SV - Eintracht Braunschweig 3:1
+                                 MSV Duisburg - Rot-Weiß Oberhausen    0:0
+                                   1. FC Köln - Hertha BSC             3:0
+                                   VfL Bochum - Werder Bremen          4:2
+                                VfB Stuttgart - Arminia Bielefeld      2:2
+                            Borussia Dortmund - FC Schalke 04          0:3
+                               Bayern München - 1. FC Kaiserslautern   3:1
+                          Eintracht Frankfurt - Fortuna Düsseldorf     4:2
+   24. Spieltag
+   Fr 10.03.1972 20:00   1. FC Kaiserslautern - Hannover 96            2:0
+   Sa 11.03.1972 15:30    Rot-Weiß Oberhausen - Hamburger SV           1:0
+                         Bor. Mönchengladbach - MSV Duisburg           3:0
+                       Eintracht Braunschweig - 1. FC Köln             0:1
+                                   Hertha BSC - Eintracht Frankfurt    0:0
+                                Werder Bremen - FC Schalke 04          2:0
+                                   VfL Bochum - VfB Stuttgart          1:1
+                           Fortuna Düsseldorf - Borussia Dortmund      4:1
+                            Arminia Bielefeld - Bayern München         0:1
+   25. Spieltag
+   Sa 18.03.1972 15:30           MSV Duisburg - 1. FC Kaiserslautern   1:0
+                                 Hamburger SV - Bor. Mönchengladbach   1:0
+                               Bayern München - VfL Bochum             5:1
+                                   1. FC Köln - Rot-Weiß Oberhausen    4:0
+                          Eintracht Frankfurt - Eintracht Braunschweig 1:1
+                                  Hannover 96 - Arminia Bielefeld      3:1
+                            Borussia Dortmund - Hertha BSC             1:2
+                                VfB Stuttgart - Werder Bremen          1:0
+                                FC Schalke 04 - Fortuna Düsseldorf     3:0
+   26. Spieltag
+   Fr 24.03.1972 20:00   1. FC Kaiserslautern - Hamburger SV           2:1
+   Sa 25.03.1972 15:30             Hertha BSC - FC Schalke 04          3:0
+                         Bor. Mönchengladbach - 1. FC Köln             3:0
+                            Arminia Bielefeld - MSV Duisburg           2:0
+                                Werder Bremen - Fortuna Düsseldorf     1:1
+                                VfB Stuttgart - Bayern München         1:4
+                          Rot-Weiß Oberhausen - Eintracht Frankfurt    1:0
+                                   VfL Bochum - Hannover 96            2:2
+                       Eintracht Braunschweig - Borussia Dortmund      2:0
+   27. Spieltag
+   Sa 08.04.1972 15:30      Borussia Dortmund - Rot-Weiß Oberhausen    2:1
+                           Fortuna Düsseldorf - Hertha BSC             1:0
+                                 MSV Duisburg - VfL Bochum             2:2
+                                   1. FC Köln - 1. FC Kaiserslautern   4:2
+                          Eintracht Frankfurt - Bor. Mönchengladbach   3:0
+                                FC Schalke 04 - Eintracht Braunschweig 5:1
+                                  Hannover 96 - VfB Stuttgart          3:0
+                                 Hamburger SV - Arminia Bielefeld      1:0
+                               Bayern München - Werder Bremen          6:2
+   28. Spieltag
+   Sa 15.04.1972 15:30   Bor. Mönchengladbach - Borussia Dortmund      7:1
+                            Arminia Bielefeld - 1. FC Köln             2:3
+                         1. FC Kaiserslautern - Eintracht Frankfurt    1:1
+                                   VfL Bochum - Hamburger SV           2:1
+                               Bayern München - Hannover 96            3:1
+                                Werder Bremen - Hertha BSC             5:0
+                          Rot-Weiß Oberhausen - FC Schalke 04          2:3
+                                VfB Stuttgart - MSV Duisburg           1:0
+                       Eintracht Braunschweig - Fortuna Düsseldorf     1:1
+   29. Spieltag
+   Fr 21.04.1972 20:00      Borussia Dortmund - 1. FC Kaiserslautern   2:1
+   Sa 22.04.1972 15:30          FC Schalke 04 - Bor. Mönchengladbach   1:1
+                                   1. FC Köln - VfL Bochum             1:1
+                           Fortuna Düsseldorf - Rot-Weiß Oberhausen    1:1
+                                 MSV Duisburg - Bayern München         3:0
+                                  Hannover 96 - Werder Bremen          5:1
+                                 Hamburger SV - VfB Stuttgart          1:2
+                          Eintracht Frankfurt - Arminia Bielefeld      5:2
+                                   Hertha BSC - Eintracht Braunschweig 1:0
+   30. Spieltag
+   Fr 05.05.1972 20:00   1. FC Kaiserslautern - FC Schalke 04          2:2
+   Sa 06.05.1972 15:30            Hannover 96 - MSV Duisburg           3:2
+                            Arminia Bielefeld - Borussia Dortmund      3:1
+                         Bor. Mönchengladbach - Fortuna Düsseldorf     1:2
+                                   VfL Bochum - Eintracht Frankfurt    3:1
+                               Bayern München - Hamburger SV           4:3
+                                Werder Bremen - Eintracht Braunschweig 2:4
+                          Rot-Weiß Oberhausen - Hertha BSC             5:2
+                                VfB Stuttgart - 1. FC Köln             1:1
+   31. Spieltag
+   Fr 19.05.1972 20:00 Eintracht Braunschweig - Rot-Weiß Oberhausen    0:0
+                            Borussia Dortmund - VfL Bochum             1:1
+   Sa 20.05.1972 15:30          FC Schalke 04 - Arminia Bielefeld      6:2
+                                   1. FC Köln - Bayern München         1:4
+                          Eintracht Frankfurt - VfB Stuttgart          4:1
+                           Fortuna Düsseldorf - 1. FC Kaiserslautern   0:3
+                                 Hamburger SV - Hannover 96            2:0
+                                 MSV Duisburg - Werder Bremen          2:0
+   Sa 27.05.1972 15:30             Hertha BSC - Bor. Mönchengladbach   2:1
+   32. Spieltag
+   Sa 03.06.1972 15:30          VfB Stuttgart - Borussia Dortmund      2:0
+                                 Hamburger SV - MSV Duisburg           2:0
+                                   VfL Bochum - FC Schalke 04          0:2
+                            Arminia Bielefeld - Fortuna Düsseldorf     1:3
+                               Bayern München - Eintracht Frankfurt    6:3
+                         1. FC Kaiserslautern - Hertha BSC             3:4
+                                  Hannover 96 - 1. FC Köln             1:4
+                          Rot-Weiß Oberhausen - Werder Bremen          2:2
+                         Bor. Mönchengladbach - Eintracht Braunschweig 4:1
+   33. Spieltag
+   Fr 23.06.1972 20:00             1. FC Köln - MSV Duisburg           4:1
+                          Rot-Weiß Oberhausen - Bor. Mönchengladbach   0:4
+   Sa 24.06.1972 15:30      Borussia Dortmund - Bayern München         0:1
+                           Fortuna Düsseldorf - VfL Bochum             3:1
+                                FC Schalke 04 - VfB Stuttgart          2:1
+                                   Hertha BSC - Arminia Bielefeld      1:1
+                                Werder Bremen - Hamburger SV           4:0
+                       Eintracht Braunschweig - 1. FC Kaiserslautern   1:1
+                          Eintracht Frankfurt - Hannover 96            3:1
+   34. Spieltag
+   Mi 28.06.1972 15:30   1. FC Kaiserslautern - Rot-Weiß Oberhausen    0:0
+                                   VfL Bochum - Hertha BSC             4:2
+                                  Hannover 96 - Borussia Dortmund      2:3
+                                 MSV Duisburg - Eintracht Frankfurt    0:1
+                            Arminia Bielefeld - Eintracht Braunschweig 1:7
+                                 Hamburger SV - 1. FC Köln             1:1
+                         Bor. Mönchengladbach - Werder Bremen          2:2
+                               Bayern München - FC Schalke 04          5:1
+                                VfB Stuttgart - Fortuna Düsseldorf     3:1

@@ -1,0 +1,340 @@
+   1. Spieltag
+   Fr 06.08.1993 20:00 Bor. Mönchengladbach - Eintracht Frankfurt  0:4
+                               Hamburger SV - 1. FC Nürnberg       5:2
+                          Borussia Dortmund - Karlsruher SC        2:1
+   Sa 07.08.1993 15:30           1. FC Köln - 1. FC Kaiserslautern 0:2
+                         SG Wattenscheid 09 - FC Schalke 04        3:0
+                             Bayern München - SC Freiburg          3:1
+                               MSV Duisburg - Bayer Leverkusen     2:2
+                          1. FC Lok Leipzig - Dynamo Dresden       3:3
+   So 08.08.1993 18:00        Werder Bremen - VfB Stuttgart        5:1
+   2. Spieltag
+   Fr 13.08.1993 20:00       1. FC Nürnberg - 1. FC Köln           1:0
+                             Dynamo Dresden - MSV Duisburg         0:1
+   Sa 14.08.1993 15:30     Bayer Leverkusen - Bayern München       2:1
+                                SC Freiburg - SG Wattenscheid 09   4:1
+                              Karlsruher SC - Hamburger SV         2:0
+                       1. FC Kaiserslautern - Bor. Mönchengladbach 4:2
+                        Eintracht Frankfurt - Werder Bremen        2:2
+   So 15.08.1993 18:00        FC Schalke 04 - Borussia Dortmund    1:0
+   Sa 11.09.1993 15:30        VfB Stuttgart - 1. FC Lok Leipzig    0:0
+   3. Spieltag
+   Di 17.08.1993 20:00        Werder Bremen - 1. FC Lok Leipzig    3:1
+   Fr 20.08.1993 19:30   SG Wattenscheid 09 - Bayer Leverkusen     1:2
+                 20:00           1. FC Köln - Karlsruher SC        2:1
+   Sa 21.08.1993 15:30 Bor. Mönchengladbach - 1. FC Nürnberg       2:0
+                               Hamburger SV - FC Schalke 04        4:1
+                          Borussia Dortmund - SC Freiburg          3:2
+                               MSV Duisburg - VfB Stuttgart        2:2
+                        Eintracht Frankfurt - 1. FC Kaiserslautern 1:0
+   So 22.08.1993 18:00       Bayern München - Dynamo Dresden       5:0
+   4. Spieltag
+   Fr 27.08.1993 19:30          SC Freiburg - Hamburger SV         0:1
+                 20:00        Karlsruher SC - Bor. Mönchengladbach 1:0
+                          1. FC Lok Leipzig - MSV Duisburg         1:1
+   Sa 28.08.1993 15:30     Bayer Leverkusen - Borussia Dortmund    2:1
+                              FC Schalke 04 - 1. FC Köln           1:2
+                             1. FC Nürnberg - Eintracht Frankfurt  1:5
+                       1. FC Kaiserslautern - Werder Bremen        2:3
+                             Dynamo Dresden - SG Wattenscheid 09   1:1
+   So 29.08.1993 18:00        VfB Stuttgart - Bayern München       2:2
+   5. Spieltag
+   Di 31.08.1993 20:00 Bor. Mönchengladbach - FC Schalke 04        3:2
+                       1. FC Kaiserslautern - 1. FC Nürnberg       3:1
+                        Eintracht Frankfurt - Karlsruher SC        3:1
+                              Werder Bremen - MSV Duisburg         1:5
+   Mi 01.09.1993 19:30   SG Wattenscheid 09 - VfB Stuttgart        2:4
+                 20:00           1. FC Köln - SC Freiburg          2:0
+                               Hamburger SV - Bayer Leverkusen     2:1
+                          Borussia Dortmund - Dynamo Dresden       4:0
+                             Bayern München - 1. FC Lok Leipzig    3:0
+   6. Spieltag
+   Fr 03.09.1993 20:00        Karlsruher SC - 1. FC Kaiserslautern 1:1
+                             1. FC Nürnberg - Werder Bremen        0:1
+   Sa 04.09.1993 15:30        VfB Stuttgart - Borussia Dortmund    2:2
+                           Bayer Leverkusen - 1. FC Köln           2:1
+                                SC Freiburg - Bor. Mönchengladbach 3:3
+                              FC Schalke 04 - Eintracht Frankfurt  1:3
+                               MSV Duisburg - Bayern München       2:2
+                          1. FC Lok Leipzig - SG Wattenscheid 09   0:0
+   So 05.09.1993 18:00       Dynamo Dresden - Hamburger SV         1:1
+   7. Spieltag
+   Di 07.09.1993 20:00 Bor. Mönchengladbach - Bayer Leverkusen     2:2
+                          Borussia Dortmund - 1. FC Lok Leipzig    0:1
+                             1. FC Nürnberg - Karlsruher SC        1:1
+   Mi 08.09.1993 19:30   SG Wattenscheid 09 - MSV Duisburg         0:2
+                 20:00           1. FC Köln - Dynamo Dresden       0:1
+                               Hamburger SV - VfB Stuttgart        3:2
+                       1. FC Kaiserslautern - FC Schalke 04        0:0
+                        Eintracht Frankfurt - SC Freiburg          3:0
+   Do 09.09.1993 20:15        Werder Bremen - Bayern München       1:0
+   8. Spieltag
+   Fr 17.09.1993 19:30          SC Freiburg - 1. FC Kaiserslautern 2:3
+                 20:00        VfB Stuttgart - 1. FC Köln           1:1
+                          1. FC Lok Leipzig - Hamburger SV         1:4
+   Sa 18.09.1993 15:30     Bayer Leverkusen - Eintracht Frankfurt  2:2
+                              FC Schalke 04 - 1. FC Nürnberg       1:2
+                             Bayern München - SG Wattenscheid 09   3:3
+                               MSV Duisburg - Borussia Dortmund    2:2
+                             Dynamo Dresden - Bor. Mönchengladbach 2:1
+   So 19.09.1993 18:00        Karlsruher SC - Werder Bremen        0:3
+   9. Spieltag
+   Fr 24.09.1993 20:00         Hamburger SV - MSV Duisburg         0:1
+                              Karlsruher SC - FC Schalke 04        0:0
+                        Eintracht Frankfurt - Dynamo Dresden       3:2
+   Sa 25.09.1993 15:30           1. FC Köln - 1. FC Lok Leipzig    3:1
+                          Borussia Dortmund - Bayern München       1:1
+                             1. FC Nürnberg - SC Freiburg          2:2
+                       1. FC Kaiserslautern - Bayer Leverkusen     3:2
+                              Werder Bremen - SG Wattenscheid 09   0:0
+   Mi 29.09.1993 20:00 Bor. Mönchengladbach - VfB Stuttgart        0:2
+   10. Spieltag
+   Fr 01.10.1993 19:30         MSV Duisburg - 1. FC Köln           0:0
+                 20:00       Dynamo Dresden - 1. FC Kaiserslautern 3:1
+   Sa 02.10.1993 15:30        VfB Stuttgart - Eintracht Frankfurt  0:2
+                           Bayer Leverkusen - 1. FC Nürnberg       4:0
+                                SC Freiburg - Karlsruher SC        3:3
+                             Bayern München - Hamburger SV         4:0
+                          1. FC Lok Leipzig - Bor. Mönchengladbach 1:1
+   So 03.10.1993 18:00   SG Wattenscheid 09 - Borussia Dortmund    1:2
+   Mo 04.10.1993 17:30        FC Schalke 04 - Werder Bremen        1:1
+   11. Spieltag
+   Fr 08.10.1993 20:00        Karlsruher SC - Bayer Leverkusen     2:0
+                             1. FC Nürnberg - Dynamo Dresden       3:0
+                              Werder Bremen - Borussia Dortmund    4:0
+   Sa 09.10.1993 15:30 Bor. Mönchengladbach - MSV Duisburg         4:1
+                                 1. FC Köln - Bayern München       0:4
+                               Hamburger SV - SG Wattenscheid 09   2:1
+                              FC Schalke 04 - SC Freiburg          1:3
+                       1. FC Kaiserslautern - VfB Stuttgart        5:0
+                        Eintracht Frankfurt - 1. FC Lok Leipzig    2:1
+   12. Spieltag
+   Fr 15.10.1993 19:30   SG Wattenscheid 09 - 1. FC Köln           2:2
+                               MSV Duisburg - Eintracht Frankfurt  1:0
+                 20:00       Dynamo Dresden - Karlsruher SC        1:1
+   Sa 16.10.1993 15:30        VfB Stuttgart - 1. FC Nürnberg       1:0
+                           Bayer Leverkusen - FC Schalke 04        5:1
+                                SC Freiburg - Werder Bremen        0:0
+                          Borussia Dortmund - Hamburger SV         2:1
+                             Bayern München - Bor. Mönchengladbach 3:1
+   So 17.10.1993 18:00    1. FC Lok Leipzig - 1. FC Kaiserslautern 0:0
+   13. Spieltag
+   Fr 22.10.1993 20:00 Bor. Mönchengladbach - SG Wattenscheid 09   3:3
+                             1. FC Nürnberg - 1. FC Lok Leipzig    5:0
+                       1. FC Kaiserslautern - MSV Duisburg         2:0
+   Sa 23.10.1993 15:30           1. FC Köln - Borussia Dortmund    2:0
+                                SC Freiburg - Bayer Leverkusen     1:0
+                              FC Schalke 04 - Dynamo Dresden       0:0
+                        Eintracht Frankfurt - Bayern München       2:2
+   So 24.10.1993 18:00        Werder Bremen - Hamburger SV         0:2
+   Mi 10.11.1993 20:00        Karlsruher SC - VfB Stuttgart        0:0
+   14. Spieltag
+   Fr 29.10.1993 20:00    Borussia Dortmund - Bor. Mönchengladbach 3:0
+                             Dynamo Dresden - SC Freiburg          1:2
+   Sa 30.10.1993 15:30        VfB Stuttgart - FC Schalke 04        3:0
+                           Bayer Leverkusen - Werder Bremen        2:2
+                               Hamburger SV - 1. FC Köln           2:4
+                         SG Wattenscheid 09 - Eintracht Frankfurt  0:0
+                             Bayern München - 1. FC Kaiserslautern 4:0
+                               MSV Duisburg - 1. FC Nürnberg       1:0
+                          1. FC Lok Leipzig - Karlsruher SC        1:0
+   15. Spieltag
+   Fr 05.11.1993 20:00 Bor. Mönchengladbach - Hamburger SV         2:2
+                              FC Schalke 04 - 1. FC Lok Leipzig    3:1
+                       1. FC Kaiserslautern - SG Wattenscheid 09   4:1
+   Sa 06.11.1993 15:30           1. FC Köln - Werder Bremen        2:0
+                                SC Freiburg - VfB Stuttgart        2:1
+                              Karlsruher SC - MSV Duisburg         5:0
+                             1. FC Nürnberg - Bayern München       2:0
+                        Eintracht Frankfurt - Borussia Dortmund    2:0
+                             Dynamo Dresden - Bayer Leverkusen     1:1
+   16. Spieltag
+   Fr 12.11.1993 19:30         MSV Duisburg - FC Schalke 04        1:0
+                 20:00    Borussia Dortmund - 1. FC Kaiserslautern 2:1
+                              Werder Bremen - Dynamo Dresden       0:1
+   Sa 13.11.1993 15:30        VfB Stuttgart - Bayer Leverkusen     1:4
+                                 1. FC Köln - Bor. Mönchengladbach 0:4
+                               Hamburger SV - Eintracht Frankfurt  3:0
+                         SG Wattenscheid 09 - 1. FC Nürnberg       2:1
+                             Bayern München - Karlsruher SC        1:0
+   So 14.11.1993 18:00    1. FC Lok Leipzig - SC Freiburg          2:2
+   17. Spieltag
+   Fr 19.11.1993 20:00 Bor. Mönchengladbach - Werder Bremen        3:2
+                              Karlsruher SC - SG Wattenscheid 09   2:0
+                        Eintracht Frankfurt - 1. FC Köln           0:3
+   Sa 20.11.1993 15:30     Bayer Leverkusen - 1. FC Lok Leipzig    3:1
+                                SC Freiburg - MSV Duisburg         1:2
+                              FC Schalke 04 - Bayern München       1:1
+                       1. FC Kaiserslautern - Hamburger SV         3:0
+                 20:00       1. FC Nürnberg - Borussia Dortmund    0:0
+   So 21.11.1993 18:00       Dynamo Dresden - VfB Stuttgart        1:0
+   18. Spieltag
+   Fr 26.11.1993 20:00 1. FC Kaiserslautern - 1. FC Köln           3:0
+                              FC Schalke 04 - SG Wattenscheid 09   4:1
+                             Dynamo Dresden - 1. FC Lok Leipzig    1:0
+   Sa 27.11.1993 15:30  Eintracht Frankfurt - Bor. Mönchengladbach 0:3
+                             1. FC Nürnberg - Hamburger SV         0:1
+                              Karlsruher SC - Borussia Dortmund    3:3
+                                SC Freiburg - Bayern München       3:1
+                           Bayer Leverkusen - MSV Duisburg         2:1
+                              VfB Stuttgart - Werder Bremen        0:0
+   19. Spieltag
+   Fr 03.12.1993 20:00    Borussia Dortmund - FC Schalke 04        1:1
+                       Bor. Mönchengladbach - 1. FC Kaiserslautern 3:1
+   Sa 04.12.1993 15:30    1. FC Lok Leipzig - VfB Stuttgart        0:0
+                             Bayern München - Bayer Leverkusen     1:1
+                         SG Wattenscheid 09 - SC Freiburg          3:1
+                               Hamburger SV - Karlsruher SC        1:1
+                                 1. FC Köln - 1. FC Nürnberg       0:1
+                              Werder Bremen - Eintracht Frankfurt  1:0
+   So 05.12.1993 18:00         MSV Duisburg - Dynamo Dresden       1:1
+   20. Spieltag
+   Fr 10.12.1993 20:00       1. FC Nürnberg - Bor. Mönchengladbach 2:4
+                             Dynamo Dresden - Bayern München       1:1
+                              VfB Stuttgart - MSV Duisburg         4:0
+   Sa 11.12.1993 15:30        Karlsruher SC - 1. FC Köln           2:0
+                              FC Schalke 04 - Hamburger SV         1:0
+                                SC Freiburg - Borussia Dortmund    4:1
+                           Bayer Leverkusen - SG Wattenscheid 09   1:1
+                       1. FC Kaiserslautern - Eintracht Frankfurt  1:1
+                          1. FC Lok Leipzig - Werder Bremen        1:1
+   21. Spieltag
+   Fr 11.02.1994 19:30   SG Wattenscheid 09 - Dynamo Dresden       1:1
+                 20:00 Bor. Mönchengladbach - Karlsruher SC        1:2
+   Sa 12.02.1994 15:30    Borussia Dortmund - Bayer Leverkusen     1:0
+                               Hamburger SV - SC Freiburg          1:1
+                        Eintracht Frankfurt - 1. FC Nürnberg       1:1
+                              Werder Bremen - 1. FC Kaiserslautern 2:0
+                               MSV Duisburg - 1. FC Lok Leipzig    2:1
+   So 13.02.1994 20:00       Bayern München - VfB Stuttgart        1:3
+   Mi 16.02.1994 20:00           1. FC Köln - FC Schalke 04        1:1
+   22. Spieltag
+   Fr 18.02.1994 19:30         MSV Duisburg - Werder Bremen        1:0
+                 20:00       Dynamo Dresden - Borussia Dortmund    3:0
+                              VfB Stuttgart - SG Wattenscheid 09   3:0
+   Sa 19.02.1994 15:30        FC Schalke 04 - Bor. Mönchengladbach 2:1
+                                SC Freiburg - 1. FC Köln           2:4
+                           Bayer Leverkusen - Hamburger SV         1:2
+                          1. FC Lok Leipzig - Bayern München       1:3
+                             1. FC Nürnberg - 1. FC Kaiserslautern 0:2
+                              Karlsruher SC - Eintracht Frankfurt  1:0
+   23. Spieltag
+   Fr 25.02.1994 20:00        Werder Bremen - 1. FC Nürnberg       2:2
+   Sa 26.02.1994 15:30           1. FC Köln - Bayer Leverkusen     1:1
+                       Bor. Mönchengladbach - SC Freiburg          1:1
+                        Eintracht Frankfurt - FC Schalke 04        1:3
+                       1. FC Kaiserslautern - Karlsruher SC        0:0
+                             Bayern München - MSV Duisburg         4:0
+                               Hamburger SV - Dynamo Dresden       1:1
+   So 27.02.1994 18:00   SG Wattenscheid 09 - 1. FC Lok Leipzig    2:2
+   Di 08.03.1994 20:00    Borussia Dortmund - VfB Stuttgart        1:2
+   24. Spieltag
+   Fr 04.03.1994 19:30         MSV Duisburg - SG Wattenscheid 09   2:1
+                 20:00       Dynamo Dresden - 1. FC Köln           1:1
+   Sa 05.03.1994 15:30     Bayer Leverkusen - Bor. Mönchengladbach 0:1
+                              VfB Stuttgart - Hamburger SV         4:0
+                          1. FC Lok Leipzig - Borussia Dortmund    2:3
+                              Karlsruher SC - 1. FC Nürnberg       3:2
+                              FC Schalke 04 - 1. FC Kaiserslautern 2:0
+                             Bayern München - Werder Bremen        2:0
+   So 06.03.1994 18:00          SC Freiburg - Eintracht Frankfurt  1:3
+   25. Spieltag
+   Fr 11.03.1994 20:00  Eintracht Frankfurt - Bayer Leverkusen     2:0
+                          Borussia Dortmund - MSV Duisburg         2:1
+   Sa 12.03.1994 15:30 1. FC Kaiserslautern - SC Freiburg          1:0
+                             1. FC Nürnberg - FC Schalke 04        1:0
+                              Werder Bremen - Karlsruher SC        0:2
+                         SG Wattenscheid 09 - Bayern München       1:3
+                               Hamburger SV - 1. FC Lok Leipzig    3:0
+                       Bor. Mönchengladbach - Dynamo Dresden       2:1
+   So 13.03.1994 18:00           1. FC Köln - VfB Stuttgart        3:1
+   26. Spieltag
+   Fr 18.03.1994 19:30         MSV Duisburg - Hamburger SV         0:1
+                 20:00    1. FC Lok Leipzig - 1. FC Köln           2:3
+   Sa 19.03.1994 15:30        VfB Stuttgart - Bor. Mönchengladbach 3:0
+                              FC Schalke 04 - Karlsruher SC        2:0
+                                SC Freiburg - 1. FC Nürnberg       0:0
+                           Bayer Leverkusen - 1. FC Kaiserslautern 3:2
+                             Dynamo Dresden - Eintracht Frankfurt  0:4
+   So 20.03.1994 18:00       Bayern München - Borussia Dortmund    0:0
+   Di 22.03.1994 19:30   SG Wattenscheid 09 - Werder Bremen        2:2
+   27. Spieltag
+   Fr 25.03.1994 20:00        Karlsruher SC - SC Freiburg          2:1
+                              Werder Bremen - FC Schalke 04        0:1
+                       1. FC Kaiserslautern - Dynamo Dresden       0:0
+   Sa 26.03.1994 15:30  Eintracht Frankfurt - VfB Stuttgart        0:0
+                             1. FC Nürnberg - Bayer Leverkusen     2:3
+                          Borussia Dortmund - SG Wattenscheid 09   2:0
+                                 1. FC Köln - MSV Duisburg         1:0
+                       Bor. Mönchengladbach - 1. FC Lok Leipzig    6:1
+   So 27.03.1994 20:00         Hamburger SV - Bayern München       1:2
+   28. Spieltag
+   Do 31.03.1994 19:30         MSV Duisburg - Bor. Mönchengladbach 2:0
+                         SG Wattenscheid 09 - Hamburger SV         3:1
+                 20:00       Dynamo Dresden - 1. FC Nürnberg       1:1
+                              VfB Stuttgart - 1. FC Kaiserslautern 1:1
+   Sa 02.04.1994 15:30       Bayern München - 1. FC Köln           1:0
+                                SC Freiburg - FC Schalke 04        2:3
+                           Bayer Leverkusen - Karlsruher SC        3:1
+                          1. FC Lok Leipzig - Eintracht Frankfurt  1:0
+                          Borussia Dortmund - Werder Bremen        3:2
+   29. Spieltag
+   Di 05.04.1994 20:00       1. FC Nürnberg - VfB Stuttgart        1:0
+                               Hamburger SV - Borussia Dortmund    0:0
+                                 1. FC Köln - SG Wattenscheid 09   3:2
+                       Bor. Mönchengladbach - Bayern München       2:0
+                       1. FC Kaiserslautern - 1. FC Lok Leipzig    1:0
+   Mi 06.04.1994 20:00        FC Schalke 04 - Bayer Leverkusen     1:1
+                              Werder Bremen - SC Freiburg          3:2
+                        Eintracht Frankfurt - MSV Duisburg         1:2
+                              Karlsruher SC - Dynamo Dresden       1:0
+   30. Spieltag
+   Fr 08.04.1994 20:00    Borussia Dortmund - 1. FC Köln           2:1
+                          1. FC Lok Leipzig - 1. FC Nürnberg       0:2
+   Sa 09.04.1994 15:30   SG Wattenscheid 09 - Bor. Mönchengladbach 3:1
+                           Bayer Leverkusen - SC Freiburg          2:1
+                             Dynamo Dresden - FC Schalke 04        1:0
+                              VfB Stuttgart - Karlsruher SC        3:0
+                             Bayern München - Eintracht Frankfurt  2:1
+                               Hamburger SV - Werder Bremen        1:1
+   So 10.04.1994 18:00         MSV Duisburg - 1. FC Kaiserslautern 1:7
+   31. Spieltag
+   Do 14.04.1994 20:00 1. FC Kaiserslautern - Bayern München       4:0
+   Fr 15.04.1994 19:30          SC Freiburg - Dynamo Dresden       0:1
+                 20:00           1. FC Köln - Hamburger SV         3:0
+   Sa 16.04.1994 15:30        FC Schalke 04 - VfB Stuttgart        0:1
+                              Werder Bremen - Bayer Leverkusen     2:1
+                        Eintracht Frankfurt - SG Wattenscheid 09   5:1
+                             1. FC Nürnberg - MSV Duisburg         0:0
+                              Karlsruher SC - 1. FC Lok Leipzig    3:2
+   So 17.04.1994 18:00 Bor. Mönchengladbach - Borussia Dortmund    0:0
+   32. Spieltag
+   Fr 22.04.1994 19:30   SG Wattenscheid 09 - 1. FC Kaiserslautern 0:2
+                 20:00        Werder Bremen - 1. FC Köln           3:1
+   Sa 23.04.1994 15:30         Hamburger SV - Bor. Mönchengladbach 1:3
+                              VfB Stuttgart - SC Freiburg          0:4
+                          1. FC Lok Leipzig - FC Schalke 04        2:2
+                               MSV Duisburg - Karlsruher SC        1:2
+                          Borussia Dortmund - Eintracht Frankfurt  2:0
+   So 24.04.1994 18:00     Bayer Leverkusen - Dynamo Dresden       1:1
+   Di 03.05.1994 20:15       Bayern München - 1. FC Nürnberg       5:0
+   33. Spieltag
+   Sa 30.04.1994 15:30     Bayer Leverkusen - VfB Stuttgart        1:1
+                       Bor. Mönchengladbach - 1. FC Köln           4:1
+                        Eintracht Frankfurt - Hamburger SV         1:1
+                       1. FC Kaiserslautern - Borussia Dortmund    2:0
+                             1. FC Nürnberg - SG Wattenscheid 09   4:1
+                              Karlsruher SC - Bayern München       1:1
+                              FC Schalke 04 - MSV Duisburg         1:3
+                                SC Freiburg - 1. FC Lok Leipzig    1:0
+                             Dynamo Dresden - Werder Bremen        1:0
+   34. Spieltag
+   Sa 07.05.1994 15:30        Werder Bremen - Bor. Mönchengladbach 4:2
+                          1. FC Lok Leipzig - Bayer Leverkusen     2:3
+                               MSV Duisburg - SC Freiburg          0:2
+                             Bayern München - FC Schalke 04        2:0
+                         SG Wattenscheid 09 - Karlsruher SC        5:1
+                          Borussia Dortmund - 1. FC Nürnberg       4:1
+                               Hamburger SV - 1. FC Kaiserslautern 1:3
+                                 1. FC Köln - Eintracht Frankfurt  2:3
+                              VfB Stuttgart - Dynamo Dresden       3:0

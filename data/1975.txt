@@ -1,0 +1,340 @@
+   1. Spieltag
+   Sa 09.08.1975 15:30            Hannover 96 - Bor. Mönchengladbach   3:3
+                               Bayern München - Eintracht Braunschweig 1:1
+                         1. FC Kaiserslautern - Kickers Offenbach      2:2
+                                 Hamburger SV - FC Schalke 04          4:1
+                                   VfL Bochum - Werder Bremen          0:3
+                                 MSV Duisburg - Fortuna Düsseldorf     2:2
+                              Rot-Weiss Essen - KFC Uerdingen 05       2:1
+                                   Hertha BSC - 1. FC Köln             2:1
+                          Eintracht Frankfurt - Karlsruher SC          0:2
+   2. Spieltag
+   Fr 15.08.1975 20:00          Werder Bremen - Eintracht Frankfurt    1:2
+                            Kickers Offenbach - Hamburger SV           3:2
+   Sa 16.08.1975 15:30 Eintracht Braunschweig - Hertha BSC             5:2
+                         Bor. Mönchengladbach - 1. FC Kaiserslautern   3:0
+                                FC Schalke 04 - MSV Duisburg           5:1
+                             KFC Uerdingen 05 - VfL Bochum             0:0
+                           Fortuna Düsseldorf - Rot-Weiss Essen        5:2
+                                   1. FC Köln - Hannover 96            2:1
+                                Karlsruher SC - Bayern München         1:2
+   3. Spieltag
+   Fr 22.08.1975 20:00   1. FC Kaiserslautern - Hannover 96            2:2
+                               Bayern München - Werder Bremen          4:0
+   Sa 23.08.1975 15:30           Hamburger SV - Bor. Mönchengladbach   0:0
+                                   Hertha BSC - Karlsruher SC          1:1
+                                 MSV Duisburg - Kickers Offenbach      6:2
+                          Eintracht Frankfurt - KFC Uerdingen 05       3:1
+                              Rot-Weiss Essen - FC Schalke 04          0:0
+                                   VfL Bochum - Fortuna Düsseldorf     0:1
+                       Eintracht Braunschweig - 1. FC Köln             0:0
+   4. Spieltag
+   Di 26.08.1975 20:00   Bor. Mönchengladbach - MSV Duisburg           3:0
+   Mi 27.08.1975 20:00          Werder Bremen - Hertha BSC             3:2
+                            Kickers Offenbach - Rot-Weiss Essen        0:4
+                           Fortuna Düsseldorf - Eintracht Frankfurt    1:1
+                                FC Schalke 04 - VfL Bochum             1:1
+                             KFC Uerdingen 05 - Bayern München         2:1
+                                  Hannover 96 - Hamburger SV           1:0
+                                Karlsruher SC - Eintracht Braunschweig 0:2
+                                   1. FC Köln - 1. FC Kaiserslautern   1:1
+   5. Spieltag
+   Sa 30.08.1975 15:30        Rot-Weiss Essen - Bor. Mönchengladbach   1:3
+                                   Hertha BSC - KFC Uerdingen 05       5:0
+                                   VfL Bochum - Kickers Offenbach      5:1
+                          Eintracht Frankfurt - FC Schalke 04          2:1
+                               Bayern München - Fortuna Düsseldorf     5:0
+                                 MSV Duisburg - Hannover 96            4:3
+                       Eintracht Braunschweig - Werder Bremen          3:2
+                                 Hamburger SV - 1. FC Kaiserslautern   2:0
+                                Karlsruher SC - 1. FC Köln             3:1
+   6. Spieltag
+   Sa 06.09.1975 15:30   Bor. Mönchengladbach - VfL Bochum             1:1
+                                   1. FC Köln - Hamburger SV           1:1
+                           Fortuna Düsseldorf - Hertha BSC             2:1
+                                Werder Bremen - Karlsruher SC          1:0
+                                  Hannover 96 - Rot-Weiss Essen        0:0
+                             KFC Uerdingen 05 - Eintracht Braunschweig 0:0
+                         1. FC Kaiserslautern - MSV Duisburg           3:0
+                            Kickers Offenbach - Eintracht Frankfurt    2:1
+                                FC Schalke 04 - Bayern München         2:2
+   7. Spieltag
+   Fr 12.09.1975 20:00           MSV Duisburg - Hamburger SV           1:1
+   Sa 13.09.1975 15:30             Hertha BSC - FC Schalke 04          2:1
+                               Bayern München - Kickers Offenbach      3:1
+                                   VfL Bochum - Hannover 96            2:0
+                          Eintracht Frankfurt - Bor. Mönchengladbach   1:1
+                              Rot-Weiss Essen - 1. FC Kaiserslautern   5:1
+                                Karlsruher SC - KFC Uerdingen 05       1:0
+                       Eintracht Braunschweig - Fortuna Düsseldorf     3:1
+                                Werder Bremen - 1. FC Köln             3:2
+   8. Spieltag
+   Fr 19.09.1975 20:00   1. FC Kaiserslautern - VfL Bochum             2:1
+   Sa 20.09.1975 15:30      Kickers Offenbach - Hertha BSC             2:1
+                                  Hannover 96 - Eintracht Frankfurt    3:2
+                                FC Schalke 04 - Eintracht Braunschweig 5:1
+                         Bor. Mönchengladbach - Bayern München         4:1
+                           Fortuna Düsseldorf - Karlsruher SC          0:2
+                                 Hamburger SV - Rot-Weiss Essen        4:1
+                             KFC Uerdingen 05 - Werder Bremen          2:1
+                                   1. FC Köln - MSV Duisburg           3:2
+   9. Spieltag
+   Sa 27.09.1975 15:30 Eintracht Braunschweig - Kickers Offenbach      5:1
+                             KFC Uerdingen 05 - 1. FC Köln             1:1
+                               Bayern München - Hannover 96            3:1
+                                Karlsruher SC - FC Schalke 04          2:2
+                                Werder Bremen - Fortuna Düsseldorf     3:0
+                              Rot-Weiss Essen - MSV Duisburg           5:2
+                          Eintracht Frankfurt - 1. FC Kaiserslautern   1:1
+                                   VfL Bochum - Hamburger SV           0:3
+                 19:30             Hertha BSC - Bor. Mönchengladbach   3:0
+   10. Spieltag
+   Sa 04.10.1975 15:30   Bor. Mönchengladbach - Eintracht Braunschweig 0:0
+                                  Hannover 96 - Hertha BSC             2:6
+                            Kickers Offenbach - Karlsruher SC          0:0
+                                 Hamburger SV - Eintracht Frankfurt    4:2
+                                FC Schalke 04 - Werder Bremen          4:2
+                                 MSV Duisburg - VfL Bochum             1:1
+                           Fortuna Düsseldorf - KFC Uerdingen 05       2:0
+                                   1. FC Köln - Rot-Weiss Essen        3:0
+                         1. FC Kaiserslautern - Bayern München         2:1
+   11. Spieltag
+   Fr 24.10.1975 20:00             VfL Bochum - Rot-Weiss Essen        2:1
+   Sa 25.10.1975 14:30       KFC Uerdingen 05 - FC Schalke 04          3:2
+                 15:30         Bayern München - Hamburger SV           1:0
+                       Eintracht Braunschweig - Hannover 96            3:2
+                                Werder Bremen - Kickers Offenbach      3:1
+                           Fortuna Düsseldorf - 1. FC Köln             0:0
+                                   Hertha BSC - 1. FC Kaiserslautern   3:0
+                          Eintracht Frankfurt - MSV Duisburg           1:1
+   So 26.10.1975 15:30          Karlsruher SC - Bor. Mönchengladbach   2:4
+   12. Spieltag
+   Fr 31.10.1975 20:00           MSV Duisburg - Bayern München         1:1
+                         Bor. Mönchengladbach - Werder Bremen          3:0
+                              Rot-Weiss Essen - Eintracht Frankfurt    4:3
+                                FC Schalke 04 - Fortuna Düsseldorf     2:0
+                                   1. FC Köln - VfL Bochum             1:0
+   Sa 01.11.1975 15:30      Kickers Offenbach - KFC Uerdingen 05       2:3
+                                 Hamburger SV - Hertha BSC             2:1
+                                  Hannover 96 - Karlsruher SC          2:0
+                         1. FC Kaiserslautern - Eintracht Braunschweig 3:1
+   13. Spieltag
+   Sa 08.11.1975 14:30       KFC Uerdingen 05 - Bor. Mönchengladbach   1:1
+                 15:30             Hertha BSC - MSV Duisburg           1:2
+                           Fortuna Düsseldorf - Kickers Offenbach      0:0
+                          Eintracht Frankfurt - VfL Bochum             6:0
+                                FC Schalke 04 - 1. FC Köln             3:1
+                               Bayern München - Rot-Weiss Essen        5:1
+                                Werder Bremen - Hannover 96            0:0
+                       Eintracht Braunschweig - Hamburger SV           1:0
+                                Karlsruher SC - 1. FC Kaiserslautern   3:5
+   14. Spieltag
+   Fr 14.11.1975 20:00      Kickers Offenbach - FC Schalke 04          1:1
+   Sa 15.11.1975 15:30   Bor. Mönchengladbach - Fortuna Düsseldorf     1:0
+                              Rot-Weiss Essen - Hertha BSC             3:1
+                                   1. FC Köln - Eintracht Frankfurt    3:3
+                                   VfL Bochum - Bayern München         3:1
+                                  Hannover 96 - KFC Uerdingen 05       3:1
+                                 MSV Duisburg - Eintracht Braunschweig 1:0
+                         1. FC Kaiserslautern - Werder Bremen          4:0
+                                 Hamburger SV - Karlsruher SC          3:0
+   15. Spieltag
+   Sa 22.11.1975 14:30       KFC Uerdingen 05 - 1. FC Kaiserslautern   2:2
+                 15:00 Eintracht Braunschweig - Rot-Weiss Essen        1:1
+                 15:30          FC Schalke 04 - Bor. Mönchengladbach   2:2
+                                   Hertha BSC - VfL Bochum             4:1
+                                   1. FC Köln - Kickers Offenbach      4:0
+                          Eintracht Frankfurt - Bayern München         6:0
+                           Fortuna Düsseldorf - Hannover 96            3:0
+                                Karlsruher SC - MSV Duisburg           2:2
+                                Werder Bremen - Hamburger SV           1:3
+   16. Spieltag
+   Fr 28.11.1975 20:00   Bor. Mönchengladbach - Kickers Offenbach      2:0
+                                   VfL Bochum - Eintracht Braunschweig 2:0
+   Sa 29.11.1975 15:30    Eintracht Frankfurt - Hertha BSC             1:1
+                                  Hannover 96 - FC Schalke 04          1:1
+                         1. FC Kaiserslautern - Fortuna Düsseldorf     2:1
+                              Rot-Weiss Essen - Karlsruher SC          1:0
+                                 Hamburger SV - KFC Uerdingen 05       0:0
+                                 MSV Duisburg - Werder Bremen          2:0
+                               Bayern München - 1. FC Köln             1:2
+   17. Spieltag
+   Sa 06.12.1975 14:30       KFC Uerdingen 05 - MSV Duisburg           0:4
+                 15:30             1. FC Köln - Bor. Mönchengladbach   0:4
+                                   Hertha BSC - Bayern München         2:1
+                            Kickers Offenbach - Hannover 96            1:0
+                       Eintracht Braunschweig - Eintracht Frankfurt    2:0
+                                FC Schalke 04 - 1. FC Kaiserslautern   2:2
+                                Karlsruher SC - VfL Bochum             2:2
+                           Fortuna Düsseldorf - Hamburger SV           1:0
+                                Werder Bremen - Rot-Weiss Essen        3:3
+   18. Spieltag
+   Fr 16.01.1976 20:00     Fortuna Düsseldorf - MSV Duisburg           1:3
+   Sa 17.01.1976 14:30       KFC Uerdingen 05 - Rot-Weiss Essen        1:1
+                 15:30   Bor. Mönchengladbach - Hannover 96            2:0
+                       Eintracht Braunschweig - Bayern München         1:1
+                            Kickers Offenbach - 1. FC Kaiserslautern   1:4
+                                FC Schalke 04 - Hamburger SV           0:1
+                                Werder Bremen - VfL Bochum             4:1
+                                   1. FC Köln - Hertha BSC             2:0
+                                Karlsruher SC - Eintracht Frankfurt    1:0
+   19. Spieltag
+   Sa 24.01.1976 15:30    Eintracht Frankfurt - Werder Bremen          2:0
+                                 Hamburger SV - Kickers Offenbach      2:0
+                                   Hertha BSC - Eintracht Braunschweig 1:0
+                         1. FC Kaiserslautern - Bor. Mönchengladbach   0:3
+                                 MSV Duisburg - FC Schalke 04          1:3
+                                   VfL Bochum - KFC Uerdingen 05       3:0
+                              Rot-Weiss Essen - Fortuna Düsseldorf     2:2
+                                  Hannover 96 - 1. FC Köln             3:3
+                               Bayern München - Karlsruher SC          2:0
+   20. Spieltag
+   Sa 07.02.1976 15:30            Hannover 96 - 1. FC Kaiserslautern   2:0
+                                Werder Bremen - Bayern München         0:0
+                         Bor. Mönchengladbach - Hamburger SV           1:1
+                                Karlsruher SC - Hertha BSC             3:0
+                            Kickers Offenbach - MSV Duisburg           2:1
+                             KFC Uerdingen 05 - Eintracht Frankfurt    0:5
+                                FC Schalke 04 - Rot-Weiss Essen        5:1
+                           Fortuna Düsseldorf - VfL Bochum             3:1
+                                   1. FC Köln - Eintracht Braunschweig 1:1
+   21. Spieltag
+   Sa 14.02.1976 15:30           MSV Duisburg - Bor. Mönchengladbach   2:3
+                          Eintracht Frankfurt - Fortuna Düsseldorf     5:2
+                               Bayern München - KFC Uerdingen 05       2:0
+   Di 17.02.1976 20:00        Rot-Weiss Essen - Kickers Offenbach      2:2
+                                 Hamburger SV - Hannover 96            3:0
+   Di 09.03.1976 20:00   1. FC Kaiserslautern - 1. FC Köln             1:1
+   Di 23.03.1976 20:00             Hertha BSC - Werder Bremen          0:0
+   Fr 02.04.1976 20:00             VfL Bochum - FC Schalke 04          1:4
+   Sa 03.04.1976 15:30 Eintracht Braunschweig - Karlsruher SC          2:0
+   22. Spieltag
+   Sa 21.02.1976 15:30   Bor. Mönchengladbach - Rot-Weiss Essen        1:2
+                             KFC Uerdingen 05 - Hertha BSC             1:1
+                            Kickers Offenbach - VfL Bochum             1:0
+                                FC Schalke 04 - Eintracht Frankfurt    2:4
+                           Fortuna Düsseldorf - Bayern München         1:1
+                                  Hannover 96 - MSV Duisburg           0:2
+                                Werder Bremen - Eintracht Braunschweig 0:1
+                         1. FC Kaiserslautern - Hamburger SV           2:0
+                                   1. FC Köln - Karlsruher SC          1:3
+   23. Spieltag
+   Sa 06.03.1976 15:30             VfL Bochum - Bor. Mönchengladbach   2:0
+                                 Hamburger SV - 1. FC Köln             2:1
+                                   Hertha BSC - Fortuna Düsseldorf     2:2
+                                Karlsruher SC - Werder Bremen          2:0
+                              Rot-Weiss Essen - Hannover 96            1:0
+                       Eintracht Braunschweig - KFC Uerdingen 05       1:0
+                                 MSV Duisburg - 1. FC Kaiserslautern   1:2
+                          Eintracht Frankfurt - Kickers Offenbach      1:0
+                               Bayern München - FC Schalke 04          3:2
+   24. Spieltag
+   Fr 12.03.1976 20:00           Hamburger SV - MSV Duisburg           3:0
+   Sa 13.03.1976 15:30          FC Schalke 04 - Hertha BSC             2:2
+                            Kickers Offenbach - Bayern München         2:2
+                                  Hannover 96 - VfL Bochum             4:1
+                         Bor. Mönchengladbach - Eintracht Frankfurt    4:2
+                         1. FC Kaiserslautern - Rot-Weiss Essen        5:0
+                             KFC Uerdingen 05 - Karlsruher SC          1:1
+                           Fortuna Düsseldorf - Eintracht Braunschweig 3:3
+                                   1. FC Köln - Werder Bremen          1:1
+   25. Spieltag
+   Sa 20.03.1976 15:30             VfL Bochum - 1. FC Kaiserslautern   2:0
+                                   Hertha BSC - Kickers Offenbach      1:0
+                          Eintracht Frankfurt - Hannover 96            5:1
+                       Eintracht Braunschweig - FC Schalke 04          4:1
+                               Bayern München - Bor. Mönchengladbach   4:0
+                                Karlsruher SC - Fortuna Düsseldorf     1:0
+                              Rot-Weiss Essen - Hamburger SV           1:1
+                                Werder Bremen - KFC Uerdingen 05       3:0
+                                 MSV Duisburg - 1. FC Köln             0:4
+   26. Spieltag
+   Fr 26.03.1976 20:00           MSV Duisburg - Rot-Weiss Essen        4:0
+                         1. FC Kaiserslautern - Eintracht Frankfurt    3:1
+   Sa 27.03.1976 15:30   Bor. Mönchengladbach - Hertha BSC             1:1
+                            Kickers Offenbach - Eintracht Braunschweig 4:2
+                                   1. FC Köln - KFC Uerdingen 05       4:0
+                                  Hannover 96 - Bayern München         2:2
+                                FC Schalke 04 - Karlsruher SC          6:2
+                           Fortuna Düsseldorf - Werder Bremen          3:0
+                                 Hamburger SV - VfL Bochum             5:3
+   27. Spieltag
+   Sa 10.04.1976 15:30 Eintracht Braunschweig - Bor. Mönchengladbach   0:0
+                                   Hertha BSC - Hannover 96            1:0
+                                Karlsruher SC - Kickers Offenbach      2:1
+                          Eintracht Frankfurt - Hamburger SV           1:0
+                                Werder Bremen - FC Schalke 04          1:1
+                                   VfL Bochum - MSV Duisburg           1:2
+                             KFC Uerdingen 05 - Fortuna Düsseldorf     2:0
+                              Rot-Weiss Essen - 1. FC Köln             2:3
+                               Bayern München - 1. FC Kaiserslautern   3:4
+   28. Spieltag
+   Do 15.04.1976 20:00   1. FC Kaiserslautern - Hertha BSC             5:0
+                                FC Schalke 04 - KFC Uerdingen 05       5:1
+   Sa 17.04.1976 15:30        Rot-Weiss Essen - VfL Bochum             1:0
+                                 Hamburger SV - Bayern München         0:1
+                                  Hannover 96 - Eintracht Braunschweig 2:0
+                            Kickers Offenbach - Werder Bremen          2:0
+                                   1. FC Köln - Fortuna Düsseldorf     4:0
+                                 MSV Duisburg - Eintracht Frankfurt    1:1
+                         Bor. Mönchengladbach - Karlsruher SC          4:0
+   29. Spieltag
+   Fr 23.04.1976 20:00          Karlsruher SC - Hannover 96            3:2
+   Fr 30.04.1976 20:00    Eintracht Frankfurt - Rot-Weiss Essen        1:3
+                           Fortuna Düsseldorf - FC Schalke 04          1:2
+                       Eintracht Braunschweig - 1. FC Kaiserslautern   2:0
+   Sa 01.05.1976 15:30         Bayern München - MSV Duisburg           3:0
+                                Werder Bremen - Bor. Mönchengladbach   2:2
+                                   VfL Bochum - 1. FC Köln             1:0
+                             KFC Uerdingen 05 - Kickers Offenbach      1:2
+                                   Hertha BSC - Hamburger SV           1:1
+   30. Spieltag
+   Fr 07.05.1976 20:00      Kickers Offenbach - Fortuna Düsseldorf     1:1
+   Sa 08.05.1976 15:30   Bor. Mönchengladbach - KFC Uerdingen 05       6:1
+                                 MSV Duisburg - Hertha BSC             2:1
+                                   VfL Bochum - Eintracht Frankfurt    5:3
+                              Rot-Weiss Essen - Bayern München         3:3
+                                  Hannover 96 - Werder Bremen          0:0
+                                 Hamburger SV - Eintracht Braunschweig 4:0
+                         1. FC Kaiserslautern - Karlsruher SC          3:1
+   Di 25.05.1976 20:00             1. FC Köln - FC Schalke 04          2:1
+   31. Spieltag
+   Sa 15.05.1976 15:30          FC Schalke 04 - Kickers Offenbach      1:1
+                           Fortuna Düsseldorf - Bor. Mönchengladbach   1:1
+                                   Hertha BSC - Rot-Weiss Essen        2:2
+                          Eintracht Frankfurt - 1. FC Köln             2:2
+                               Bayern München - VfL Bochum             4:0
+                             KFC Uerdingen 05 - Hannover 96            1:1
+                       Eintracht Braunschweig - MSV Duisburg           3:1
+                                Werder Bremen - 1. FC Kaiserslautern   3:2
+                                Karlsruher SC - Hamburger SV           3:2
+   32. Spieltag
+   Fr 28.05.1976 20:00        Rot-Weiss Essen - Eintracht Braunschweig 2:2
+   Sa 29.05.1976 15:30   Bor. Mönchengladbach - FC Schalke 04          0:2
+                                   VfL Bochum - Hertha BSC             2:0
+                            Kickers Offenbach - 1. FC Köln             1:5
+                               Bayern München - Eintracht Frankfurt    1:1
+                                  Hannover 96 - Fortuna Düsseldorf     1:2
+                         1. FC Kaiserslautern - KFC Uerdingen 05       1:2
+                                 MSV Duisburg - Karlsruher SC          1:0
+                                 Hamburger SV - Werder Bremen          1:2
+   33. Spieltag
+   Fr 04.06.1976 15:30      Kickers Offenbach - Bor. Mönchengladbach   1:1
+                       Eintracht Braunschweig - VfL Bochum             1:1
+                                   Hertha BSC - Eintracht Frankfurt    4:4
+                                FC Schalke 04 - Hannover 96            1:2
+                           Fortuna Düsseldorf - 1. FC Kaiserslautern   5:1
+                                Karlsruher SC - Rot-Weiss Essen        1:2
+                             KFC Uerdingen 05 - Hamburger SV           0:1
+                                Werder Bremen - MSV Duisburg           2:0
+                                   1. FC Köln - Bayern München         1:0
+   34. Spieltag
+   Sa 12.06.1976 15:30   Bor. Mönchengladbach - 1. FC Köln             2:1
+                               Bayern München - Hertha BSC             7:4
+                                  Hannover 96 - Kickers Offenbach      4:0
+                          Eintracht Frankfurt - Eintracht Braunschweig 6:1
+                         1. FC Kaiserslautern - FC Schalke 04          1:3
+                                   VfL Bochum - Karlsruher SC          4:2
+                                 Hamburger SV - Fortuna Düsseldorf     3:1
+                              Rot-Weiss Essen - Werder Bremen          2:0
+                                 MSV Duisburg - KFC Uerdingen 05       2:0

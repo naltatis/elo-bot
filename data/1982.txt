@@ -1,0 +1,340 @@
+   1. Spieltag
+   Fr 20.08.1982 19:30      Borussia Dortmund - VfB Stuttgart          1:1
+                 20:00   1. FC Kaiserslautern - Hertha BSC             2:2
+   Sa 21.08.1982 15:30       Bayer Leverkusen - Arminia Bielefeld      0:1
+                                Karlsruher SC - Eintracht Frankfurt    1:0
+                           Fortuna Düsseldorf - VfL Bochum             2:0
+                                Werder Bremen - Bayern München         1:0
+                               1. FC Nürnberg - Hamburger SV           2:2
+                                FC Schalke 04 - Bor. Mönchengladbach   2:4
+                       Eintracht Braunschweig - 1. FC Köln             2:2
+   2. Spieltag
+   Di 17.08.1982 20:00             Hertha BSC - Borussia Dortmund      1:3
+   Di 24.08.1982 20:00          VfB Stuttgart - FC Schalke 04          2:1
+                               Bayern München - Fortuna Düsseldorf     1:0
+                                   VfL Bochum - Karlsruher SC          0:1
+                          Eintracht Frankfurt - Bayer Leverkusen       5:0
+   Mi 25.08.1982 20:00   Bor. Mönchengladbach - 1. FC Nürnberg         1:2
+                                 Hamburger SV - Werder Bremen          1:1
+                            Arminia Bielefeld - Eintracht Braunschweig 2:0
+   Di 07.09.1982 20:00             1. FC Köln - 1. FC Kaiserslautern   3:0
+   3. Spieltag
+   Di 31.08.1982 20:00          Werder Bremen - Bor. Mönchengladbach   2:0
+                                FC Schalke 04 - Hertha BSC             2:0
+   Mi 01.09.1982 19:30       Bayer Leverkusen - VfL Bochum             1:0
+                            Borussia Dortmund - 1. FC Köln             2:0
+                            Arminia Bielefeld - Eintracht Frankfurt    2:1
+                 20:00          Karlsruher SC - Bayern München         0:4
+                               1. FC Nürnberg - VfB Stuttgart          0:5
+   Di 07.09.1982 20:00     Fortuna Düsseldorf - Hamburger SV           0:6
+   Di 09.11.1982 20:00 Eintracht Braunschweig - 1. FC Kaiserslautern   1:1
+   4. Spieltag
+   Sa 04.09.1982 15:30             1. FC Köln - FC Schalke 04          2:1
+                                VfB Stuttgart - Werder Bremen          4:1
+                         Bor. Mönchengladbach - Fortuna Düsseldorf     5:0
+                                 Hamburger SV - Karlsruher SC          4:0
+                               Bayern München - Bayer Leverkusen       5:0
+                                   VfL Bochum - Arminia Bielefeld      1:1
+                          Eintracht Frankfurt - Eintracht Braunschweig 0:1
+                         1. FC Kaiserslautern - Borussia Dortmund      0:2
+                                   Hertha BSC - 1. FC Nürnberg         5:1
+   5. Spieltag
+   Fr 10.09.1982 20:00       Bayer Leverkusen - Hamburger SV           0:1
+                                Karlsruher SC - Bor. Mönchengladbach   2:0
+   Sa 11.09.1982 15:30     Fortuna Düsseldorf - VfB Stuttgart          1:1
+                                Werder Bremen - Hertha BSC             3:1
+                               1. FC Nürnberg - 1. FC Köln             2:1
+                                FC Schalke 04 - 1. FC Kaiserslautern   0:0
+                          Eintracht Frankfurt - VfL Bochum             0:1
+                            Arminia Bielefeld - Bayern München         2:4
+                       Eintracht Braunschweig - Borussia Dortmund      0:0
+   6. Spieltag
+   Fr 17.09.1982 20:00   Bor. Mönchengladbach - Bayer Leverkusen       3:1
+                                   VfL Bochum - Eintracht Braunschweig 0:2
+   Sa 18.09.1982 15:30             1. FC Köln - Werder Bremen          2:1
+                                VfB Stuttgart - Karlsruher SC          4:1
+                                 Hamburger SV - Arminia Bielefeld      3:1
+                               Bayern München - Eintracht Frankfurt    4:0
+                            Borussia Dortmund - FC Schalke 04          2:0
+                         1. FC Kaiserslautern - 1. FC Nürnberg         2:1
+                                   Hertha BSC - Fortuna Düsseldorf     1:1
+   7. Spieltag
+   Fr 24.09.1982 20:00         1. FC Nürnberg - Borussia Dortmund      3:2
+   Sa 25.09.1982 15:30       Bayer Leverkusen - VfB Stuttgart          0:3
+                                Karlsruher SC - Hertha BSC             1:1
+                           Fortuna Düsseldorf - 1. FC Köln             2:6
+                                Werder Bremen - 1. FC Kaiserslautern   3:0
+                                   VfL Bochum - Bayern München         0:0
+                          Eintracht Frankfurt - Hamburger SV           1:1
+                            Arminia Bielefeld - Bor. Mönchengladbach   4:2
+                       Eintracht Braunschweig - FC Schalke 04          1:1
+   8. Spieltag
+   Mi 01.09.1982 20:00   Bor. Mönchengladbach - Eintracht Frankfurt    3:1
+                                FC Schalke 04 - 1. FC Nürnberg         0:1
+                                   Hertha BSC - Bayer Leverkusen       3:3
+   Sa 02.10.1982 15:30             1. FC Köln - Karlsruher SC          4:1
+                                VfB Stuttgart - Arminia Bielefeld      2:2
+                                 Hamburger SV - VfL Bochum             0:0
+                               Bayern München - Eintracht Braunschweig 1:1
+                            Borussia Dortmund - Werder Bremen          0:0
+                         1. FC Kaiserslautern - Fortuna Düsseldorf     3:1
+   9. Spieltag
+   Fr 08.10.1982 20:00          Werder Bremen - FC Schalke 04          4:0
+   Sa 09.10.1982 15:30       Bayer Leverkusen - 1. FC Köln             0:0
+                                Karlsruher SC - 1. FC Kaiserslautern   1:1
+                           Fortuna Düsseldorf - Borussia Dortmund      2:3
+                               Bayern München - Hamburger SV           2:2
+                                   VfL Bochum - Bor. Mönchengladbach   3:1
+                          Eintracht Frankfurt - VfB Stuttgart          3:0
+                            Arminia Bielefeld - Hertha BSC             2:1
+                       Eintracht Braunschweig - 1. FC Nürnberg         2:2
+   10. Spieltag
+   Fr 22.10.1982 20:00          FC Schalke 04 - Fortuna Düsseldorf     3:3
+   Sa 23.10.1982 15:30             1. FC Köln - Arminia Bielefeld      1:0
+                                VfB Stuttgart - VfL Bochum             5:2
+                         Bor. Mönchengladbach - Bayern München         0:0
+                                 Hamburger SV - Eintracht Braunschweig 4:0
+                               1. FC Nürnberg - Werder Bremen          2:0
+                            Borussia Dortmund - Karlsruher SC          4:3
+                         1. FC Kaiserslautern - Bayer Leverkusen       2:0
+                                   Hertha BSC - Eintracht Frankfurt    1:0
+   11. Spieltag
+   Sa 30.10.1982 15:30       Bayer Leverkusen - Borussia Dortmund      1:2
+                                Karlsruher SC - FC Schalke 04          2:2
+                           Fortuna Düsseldorf - 1. FC Nürnberg         3:1
+                                 Hamburger SV - Bor. Mönchengladbach   4:3
+                               Bayern München - VfB Stuttgart          4:0
+                                   VfL Bochum - Hertha BSC             4:0
+                          Eintracht Frankfurt - 1. FC Köln             3:0
+                            Arminia Bielefeld - 1. FC Kaiserslautern   2:2
+                       Eintracht Braunschweig - Werder Bremen          3:1
+   12. Spieltag
+   Fr 05.11.1982 20:00   Bor. Mönchengladbach - Eintracht Braunschweig 3:0
+                                FC Schalke 04 - Bayer Leverkusen       2:0
+   Sa 06.11.1982 15:30             1. FC Köln - VfL Bochum             4:1
+                                VfB Stuttgart - Hamburger SV           1:2
+                                Werder Bremen - Fortuna Düsseldorf     2:2
+                               1. FC Nürnberg - Karlsruher SC          3:1
+                            Borussia Dortmund - Arminia Bielefeld      11:1
+                         1. FC Kaiserslautern - Eintracht Frankfurt    3:0
+                                   Hertha BSC - Bayern München         1:3
+   13. Spieltag
+   Sa 13.11.1982 15:30       Bayer Leverkusen - 1. FC Nürnberg         1:0
+                                Karlsruher SC - Werder Bremen          1:2
+                         Bor. Mönchengladbach - VfB Stuttgart          1:4
+                                 Hamburger SV - Hertha BSC             1:1
+                               Bayern München - 1. FC Köln             0:1
+                                   VfL Bochum - 1. FC Kaiserslautern   1:1
+                          Eintracht Frankfurt - Borussia Dortmund      3:1
+                            Arminia Bielefeld - FC Schalke 04          3:2
+                       Eintracht Braunschweig - Fortuna Düsseldorf     2:1
+   14. Spieltag
+   Fr 19.11.1982 19:30      Borussia Dortmund - VfL Bochum             3:1
+   Sa 20.11.1982 15:30             1. FC Köln - Hamburger SV           1:1
+                                VfB Stuttgart - Eintracht Braunschweig 4:0
+                           Fortuna Düsseldorf - Karlsruher SC          4:3
+                                Werder Bremen - Bayer Leverkusen       3:1
+                               1. FC Nürnberg - Arminia Bielefeld      1:1
+                                FC Schalke 04 - Eintracht Frankfurt    3:2
+                         1. FC Kaiserslautern - Bayern München         3:2
+                                   Hertha BSC - Bor. Mönchengladbach   0:2
+   15. Spieltag
+   Sa 27.11.1982 15:30       Bayer Leverkusen - Fortuna Düsseldorf     3:3
+                                Karlsruher SC - Eintracht Braunschweig 3:1
+                         Bor. Mönchengladbach - 1. FC Köln             1:4
+                                 Hamburger SV - 1. FC Kaiserslautern   1:1
+                               Bayern München - Borussia Dortmund      3:0
+                                   VfL Bochum - FC Schalke 04          2:1
+                          Eintracht Frankfurt - 1. FC Nürnberg         3:0
+                            Arminia Bielefeld - Werder Bremen          1:2
+                                   Hertha BSC - VfB Stuttgart          1:0
+   16. Spieltag
+   Fr 03.12.1982 20:00 Eintracht Braunschweig - Hertha BSC             1:0
+   Sa 04.12.1982 15:30             1. FC Köln - VfB Stuttgart          1:2
+                                Karlsruher SC - Bayer Leverkusen       2:2
+                           Fortuna Düsseldorf - Arminia Bielefeld      2:0
+                                Werder Bremen - Eintracht Frankfurt    3:0
+                               1. FC Nürnberg - VfL Bochum             1:1
+                            Borussia Dortmund - Hamburger SV           1:3
+                         1. FC Kaiserslautern - Bor. Mönchengladbach   3:0
+                                FC Schalke 04 - Bayern München         1:2
+   17. Spieltag
+   Fr 10.12.1982 20:00   Bor. Mönchengladbach - Borussia Dortmund      2:3
+   Sa 11.12.1982 15:30       Bayer Leverkusen - Eintracht Braunschweig 1:0
+                                VfB Stuttgart - 1. FC Kaiserslautern   1:1
+                                 Hamburger SV - FC Schalke 04          6:2
+                               Bayern München - 1. FC Nürnberg         1:0
+                                   VfL Bochum - Werder Bremen          1:2
+                          Eintracht Frankfurt - Fortuna Düsseldorf     2:2
+                            Arminia Bielefeld - Karlsruher SC          5:1
+                                   Hertha BSC - 1. FC Köln             0:0
+   18. Spieltag
+   Sa 22.01.1983 15:30      Arminia Bielefeld - Bayer Leverkusen       0:2
+                          Eintracht Frankfurt - Karlsruher SC          2:0
+                                   VfL Bochum - Fortuna Düsseldorf     3:1
+                               Bayern München - Werder Bremen          1:1
+                                 Hamburger SV - 1. FC Nürnberg         3:0
+                         Bor. Mönchengladbach - FC Schalke 04          0:0
+                                VfB Stuttgart - Borussia Dortmund      2:1
+                                   Hertha BSC - 1. FC Kaiserslautern   0:0
+                                   1. FC Köln - Eintracht Braunschweig 3:1
+   19. Spieltag
+   Sa 29.01.1983 15:30   1. FC Kaiserslautern - 1. FC Köln             3:2
+                                FC Schalke 04 - VfB Stuttgart          1:3
+                               1. FC Nürnberg - Bor. Mönchengladbach   1:0
+                                Werder Bremen - Hamburger SV           3:2
+                           Fortuna Düsseldorf - Bayern München         3:5
+                                Karlsruher SC - VfL Bochum             0:0
+                             Bayer Leverkusen - Eintracht Frankfurt    1:1
+                       Eintracht Braunschweig - Arminia Bielefeld      3:0
+                            Borussia Dortmund - Hertha BSC             2:1
+   20. Spieltag
+   Sa 05.02.1983 15:30         Bayern München - Karlsruher SC          6:1
+                                VfB Stuttgart - 1. FC Nürnberg         3:0
+                                   Hertha BSC - FC Schalke 04          2:3
+                                   1. FC Köln - Borussia Dortmund      2:2
+                         1. FC Kaiserslautern - Eintracht Braunschweig 3:2
+   Sa 12.02.1983 15:30    Eintracht Frankfurt - Arminia Bielefeld      2:1
+   Di 01.03.1983 20:00   Bor. Mönchengladbach - Werder Bremen          1:2
+   Di 08.03.1983 20:00           Hamburger SV - Fortuna Düsseldorf     2:0
+   Sa 02.04.1983 15:30             VfL Bochum - Bayer Leverkusen       3:2
+   21. Spieltag
+   Sa 19.02.1983 15:30          FC Schalke 04 - 1. FC Köln             1:4
+                           Fortuna Düsseldorf - Bor. Mönchengladbach   2:1
+                                Karlsruher SC - Hamburger SV           1:2
+                             Bayer Leverkusen - Bayern München         1:1
+                            Arminia Bielefeld - VfL Bochum             1:1
+                       Eintracht Braunschweig - Eintracht Frankfurt    1:0
+                            Borussia Dortmund - 1. FC Kaiserslautern   4:0
+                               1. FC Nürnberg - Hertha BSC             4:2
+   Di 22.03.1983 20:00          Werder Bremen - VfB Stuttgart          3:2
+   22. Spieltag
+   Sa 26.02.1983 15:30           Hamburger SV - Bayer Leverkusen       3:0
+                                VfB Stuttgart - Fortuna Düsseldorf     1:1
+                                   VfL Bochum - Eintracht Frankfurt    1:2
+                               Bayern München - Arminia Bielefeld      5:0
+                            Borussia Dortmund - Eintracht Braunschweig 3:2
+   Di 22.03.1983 20:00             1. FC Köln - 1. FC Nürnberg         5:2
+   Sa 02.04.1983 15:30   Bor. Mönchengladbach - Karlsruher SC          5:0
+                                   Hertha BSC - Werder Bremen          0:1
+                         1. FC Kaiserslautern - FC Schalke 04          2:0
+   23. Spieltag
+   Sa 05.03.1983 15:30          Werder Bremen - 1. FC Köln             1:1
+                                Karlsruher SC - VfB Stuttgart          1:2
+                             Bayer Leverkusen - Bor. Mönchengladbach   3:2
+                            Arminia Bielefeld - Hamburger SV           2:0
+                          Eintracht Frankfurt - Bayern München         1:0
+                       Eintracht Braunschweig - VfL Bochum             0:2
+                                FC Schalke 04 - Borussia Dortmund      1:2
+                               1. FC Nürnberg - 1. FC Kaiserslautern   1:1
+                           Fortuna Düsseldorf - Hertha BSC             1:1
+   24. Spieltag
+   Fr 11.03.1983 19:30      Borussia Dortmund - 1. FC Nürnberg         4:0
+   Sa 12.03.1983 15:30          VfB Stuttgart - Bayer Leverkusen       5:3
+                                   Hertha BSC - Karlsruher SC          5:2
+                                   1. FC Köln - Fortuna Düsseldorf     4:0
+                         1. FC Kaiserslautern - Werder Bremen          2:1
+                               Bayern München - VfL Bochum             3:0
+                                 Hamburger SV - Eintracht Frankfurt    3:0
+                         Bor. Mönchengladbach - Arminia Bielefeld      3:0
+   Di 22.03.1983 20:00          FC Schalke 04 - Eintracht Braunschweig 3:3
+   25. Spieltag
+   Fr 18.03.1983 20:00         1. FC Nürnberg - FC Schalke 04          3:2
+                                Werder Bremen - Borussia Dortmund      4:2
+   Sa 19.03.1983 15:30          Karlsruher SC - 1. FC Köln             1:1
+                          Eintracht Frankfurt - Bor. Mönchengladbach   3:0
+                                   VfL Bochum - Hamburger SV           1:1
+                       Eintracht Braunschweig - Bayern München         1:1
+                           Fortuna Düsseldorf - 1. FC Kaiserslautern   2:1
+                             Bayer Leverkusen - Hertha BSC             2:1
+   Di 03.05.1983 20:00      Arminia Bielefeld - VfB Stuttgart          2:2
+   26. Spieltag
+   Fr 25.03.1983 19:30      Borussia Dortmund - Fortuna Düsseldorf     1:2
+                 20:00             Hertha BSC - Arminia Bielefeld      2:0
+   Sa 26.03.1983 15:30   1. FC Kaiserslautern - Karlsruher SC          7:0
+                                FC Schalke 04 - Werder Bremen          0:2
+                                 Hamburger SV - Bayern München         1:1
+                         Bor. Mönchengladbach - VfL Bochum             3:1
+                                VfB Stuttgart - Eintracht Frankfurt    4:1
+                               1. FC Nürnberg - Eintracht Braunschweig 0:0
+   Di 19.04.1983 20:00             1. FC Köln - Bayer Leverkusen       4:1
+   27. Spieltag
+   Fr 08.04.1983 20:00          Werder Bremen - 1. FC Nürnberg         3:2
+                             Bayer Leverkusen - 1. FC Kaiserslautern   0:0
+   Sa 09.04.1983 15:30      Arminia Bielefeld - 1. FC Köln             2:0
+                                   VfL Bochum - VfB Stuttgart          2:2
+                               Bayern München - Bor. Mönchengladbach   3:1
+                       Eintracht Braunschweig - Hamburger SV           2:4
+                           Fortuna Düsseldorf - FC Schalke 04          3:1
+                          Eintracht Frankfurt - Hertha BSC             3:1
+   Di 19.04.1983 20:00          Karlsruher SC - Borussia Dortmund      2:0
+   28. Spieltag
+   Fr 15.04.1983 19:30      Borussia Dortmund - Bayer Leverkusen       3:3
+                 20:00         1. FC Nürnberg - Fortuna Düsseldorf     3:1
+                         1. FC Kaiserslautern - Arminia Bielefeld      3:0
+   Sa 16.04.1983 15:30          FC Schalke 04 - Karlsruher SC          1:0
+                         Bor. Mönchengladbach - Hamburger SV           1:1
+                                VfB Stuttgart - Bayern München         1:1
+                                   Hertha BSC - VfL Bochum             1:1
+                                   1. FC Köln - Eintracht Frankfurt    2:2
+                                Werder Bremen - Eintracht Braunschweig 6:0
+   29. Spieltag
+   Fr 29.04.1983 20:00          Karlsruher SC - 1. FC Nürnberg         2:1
+                            Arminia Bielefeld - Borussia Dortmund      1:0
+   Sa 30.04.1983 15:00         Bayern München - Hertha BSC             4:0
+                 15:30             VfL Bochum - 1. FC Köln             0:0
+                                 Hamburger SV - VfB Stuttgart          2:0
+                       Eintracht Braunschweig - Bor. Mönchengladbach   0:0
+                           Fortuna Düsseldorf - Werder Bremen          2:5
+                             Bayer Leverkusen - FC Schalke 04          3:1
+                          Eintracht Frankfurt - 1. FC Kaiserslautern   2:2
+   30. Spieltag
+   Fr 06.05.1983 20:00          VfB Stuttgart - Bor. Mönchengladbach   3:2
+                                   Hertha BSC - Hamburger SV           1:2
+                           Fortuna Düsseldorf - Eintracht Braunschweig 5:0
+   Sa 07.05.1983 15:30         1. FC Nürnberg - Bayer Leverkusen       0:1
+                                Werder Bremen - Karlsruher SC          3:0
+                                   1. FC Köln - Bayern München         2:0
+                         1. FC Kaiserslautern - VfL Bochum             1:0
+                            Borussia Dortmund - Eintracht Frankfurt    4:1
+                                FC Schalke 04 - Arminia Bielefeld      5:0
+   31. Spieltag
+   Fr 13.05.1983 19:30      Arminia Bielefeld - 1. FC Nürnberg         3:0
+                 20:00          Karlsruher SC - Fortuna Düsseldorf     2:1
+                             Bayer Leverkusen - Werder Bremen          1:1
+   Sa 14.05.1983 15:30           Hamburger SV - 1. FC Köln             2:1
+                       Eintracht Braunschweig - VfB Stuttgart          1:2
+                          Eintracht Frankfurt - FC Schalke 04          3:2
+                                   VfL Bochum - Borussia Dortmund      2:2
+                               Bayern München - 1. FC Kaiserslautern   0:1
+                         Bor. Mönchengladbach - Hertha BSC             3:1
+   32. Spieltag
+   Fr 20.05.1983 20:00             1. FC Köln - Bor. Mönchengladbach   2:1
+                                FC Schalke 04 - VfL Bochum             2:0
+                                VfB Stuttgart - Hertha BSC             4:1
+   Sa 21.05.1983 15:30     Fortuna Düsseldorf - Bayer Leverkusen       4:0
+                       Eintracht Braunschweig - Karlsruher SC          5:1
+                         1. FC Kaiserslautern - Hamburger SV           2:2
+                            Borussia Dortmund - Bayern München         4:4
+                               1. FC Nürnberg - Eintracht Frankfurt    3:0
+                                Werder Bremen - Arminia Bielefeld      5:1
+   33. Spieltag
+   Sa 28.05.1983 15:30          VfB Stuttgart - 1. FC Köln             2:1
+                             Bayer Leverkusen - Karlsruher SC          3:1
+                            Arminia Bielefeld - Fortuna Düsseldorf     2:1
+                          Eintracht Frankfurt - Werder Bremen          0:1
+                                   VfL Bochum - 1. FC Nürnberg         6:0
+                               Bayern München - FC Schalke 04          0:1
+                                 Hamburger SV - Borussia Dortmund      5:0
+                         Bor. Mönchengladbach - 1. FC Kaiserslautern   4:2
+                                   Hertha BSC - Eintracht Braunschweig 3:3
+   34. Spieltag
+   Sa 04.06.1983 15:30 Eintracht Braunschweig - Bayer Leverkusen       1:3
+                         1. FC Kaiserslautern - VfB Stuttgart          2:3
+                            Borussia Dortmund - Bor. Mönchengladbach   4:6
+                                FC Schalke 04 - Hamburger SV           1:2
+                               1. FC Nürnberg - Bayern München         2:3
+                                Werder Bremen - VfL Bochum             3:2
+                           Fortuna Düsseldorf - Eintracht Frankfurt    5:1
+                                Karlsruher SC - Arminia Bielefeld      1:1
+                                   1. FC Köln - Hertha BSC             3:2

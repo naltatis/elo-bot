@@ -1,0 +1,418 @@
+   1. Spieltag
+   Fr 02.08.1991 19:30         MSV Duisburg - VfB Stuttgart        1:0
+                 20:00           VfL Bochum - 1. FC Köln           2:2
+                           Bayer Leverkusen - Bor. Mönchengladbach 1:0
+   Sa 03.08.1991 15:30       Dynamo Dresden - 1. FC Kaiserslautern 0:1
+                              FC Schalke 04 - Hamburger SV         0:0
+                         Fortuna Düsseldorf - Eintracht Frankfurt  1:2
+                              Hansa Rostock - 1. FC Nürnberg       4:0
+                              Werder Bremen - Bayern München       1:1
+                              Karlsruher SC - Borussia Dortmund    2:2
+                        Stuttgarter Kickers - SG Wattenscheid 09   3:0
+   2. Spieltag
+   Fr 09.08.1991 18:45   SG Wattenscheid 09 - Bayer Leverkusen     3:0
+                 20:00 Bor. Mönchengladbach - MSV Duisburg         0:0
+                               Hamburger SV - Dynamo Dresden       2:0
+   Sa 10.08.1991 15:30    Borussia Dortmund - Werder Bremen        2:1
+                             Bayern München - Hansa Rostock        1:2
+                             1. FC Nürnberg - Fortuna Düsseldorf   3:1
+                        Eintracht Frankfurt - FC Schalke 04        5:0
+                       1. FC Kaiserslautern - VfL Bochum           1:1
+                                 1. FC Köln - Stuttgarter Kickers  0:0
+                              VfB Stuttgart - Karlsruher SC        1:0
+   3. Spieltag
+   Di 13.08.1991 19:30         MSV Duisburg - SG Wattenscheid 09   0:0
+                 20:00           VfL Bochum - Hamburger SV         2:3
+                             Dynamo Dresden - Eintracht Frankfurt  2:1
+                              Karlsruher SC - Bor. Mönchengladbach 2:0
+   Mi 14.08.1991 20:00        FC Schalke 04 - 1. FC Nürnberg       1:0
+                         Fortuna Düsseldorf - Bayern München       0:1
+                              Hansa Rostock - Borussia Dortmund    5:1
+                              Werder Bremen - VfB Stuttgart        1:1
+                                 1. FC Köln - 1. FC Kaiserslautern 1:1
+                        Stuttgarter Kickers - Bayer Leverkusen     0:1
+   4. Spieltag
+   Di 20.08.1991 20:00 Bor. Mönchengladbach - Werder Bremen        0:2
+                          Borussia Dortmund - Fortuna Düsseldorf   3:1
+                             Bayern München - FC Schalke 04        3:2
+                             1. FC Nürnberg - Dynamo Dresden       1:1
+   Mi 21.08.1991 18:30   SG Wattenscheid 09 - Karlsruher SC        1:1
+                 20:00  Eintracht Frankfurt - VfL Bochum           2:1
+                               Hamburger SV - 1. FC Köln           1:1
+                       1. FC Kaiserslautern - Stuttgarter Kickers  4:3
+                           Bayer Leverkusen - MSV Duisburg         2:1
+                 21:00        VfB Stuttgart - Hansa Rostock        3:0
+   5. Spieltag
+   Fr 23.08.1991 20:00       Dynamo Dresden - Bayern München       0:2
+   Sa 24.08.1991 15:30        FC Schalke 04 - Borussia Dortmund    5:2
+                         Fortuna Düsseldorf - VfB Stuttgart        0:3
+                              Hansa Rostock - Bor. Mönchengladbach 2:1
+                              Werder Bremen - SG Wattenscheid 09   2:2
+                              Karlsruher SC - Bayer Leverkusen     0:0
+                       1. FC Kaiserslautern - Hamburger SV         0:0
+                                 1. FC Köln - Eintracht Frankfurt  1:1
+   So 25.08.1991 18:00           VfL Bochum - 1. FC Nürnberg       0:3
+   Mi 09.10.1991 20:00  Stuttgarter Kickers - MSV Duisburg         0:1
+   6. Spieltag
+   Di 27.08.1991 18:30   SG Wattenscheid 09 - Hansa Rostock        0:0
+                 19:30         MSV Duisburg - Karlsruher SC        6:2
+                 20:00 Bor. Mönchengladbach - Fortuna Düsseldorf   3:1
+                           Bayer Leverkusen - Werder Bremen        0:0
+                              VfB Stuttgart - FC Schalke 04        1:0
+   Mi 28.08.1991 20:00    Borussia Dortmund - Dynamo Dresden       4:0
+                             Bayern München - VfL Bochum           0:2
+                             1. FC Nürnberg - 1. FC Köln           4:0
+                        Eintracht Frankfurt - 1. FC Kaiserslautern 2:0
+                               Hamburger SV - Stuttgarter Kickers  0:3
+   7. Spieltag
+   Fr 30.08.1991 20:00        FC Schalke 04 - Bor. Mönchengladbach 3:1
+                         Fortuna Düsseldorf - SG Wattenscheid 09   4:3
+                              Werder Bremen - MSV Duisburg         5:1
+   Sa 31.08.1991 15:30           VfL Bochum - Borussia Dortmund    0:0
+                             Dynamo Dresden - VfB Stuttgart        1:0
+                              Hansa Rostock - Bayer Leverkusen     2:2
+                               Hamburger SV - Eintracht Frankfurt  2:1
+                       1. FC Kaiserslautern - 1. FC Nürnberg       3:0
+                                 1. FC Köln - Bayern München       1:1
+                        Stuttgarter Kickers - Karlsruher SC        1:1
+   8. Spieltag
+   Fr 06.09.1991 20:00    Borussia Dortmund - 1. FC Köln           3:1
+                        Eintracht Frankfurt - Stuttgarter Kickers  6:1
+   Sa 07.09.1991 15:30   SG Wattenscheid 09 - FC Schalke 04        1:2
+                       Bor. Mönchengladbach - Dynamo Dresden       1:0
+                             Bayern München - 1. FC Kaiserslautern 1:0
+                             1. FC Nürnberg - Hamburger SV         1:1
+                              Karlsruher SC - Werder Bremen        2:1
+                           Bayer Leverkusen - Fortuna Düsseldorf   1:1
+                              VfB Stuttgart - VfL Bochum           4:1
+   So 08.09.1991 18:00         MSV Duisburg - Hansa Rostock        2:0
+   9. Spieltag
+   Fr 13.09.1991 20:00           VfL Bochum - Bor. Mönchengladbach 3:1
+                         Fortuna Düsseldorf - MSV Duisburg         1:1
+                              Hansa Rostock - Karlsruher SC        1:2
+   Sa 14.09.1991 15:30       Dynamo Dresden - SG Wattenscheid 09   3:0
+                              FC Schalke 04 - Bayer Leverkusen     0:0
+                               Hamburger SV - Bayern München       1:0
+                       1. FC Kaiserslautern - Borussia Dortmund    4:0
+                                 1. FC Köln - VfB Stuttgart        1:1
+                        Stuttgarter Kickers - Werder Bremen        2:1
+   So 15.09.1991 20:30  Eintracht Frankfurt - 1. FC Nürnberg       2:2
+   10. Spieltag
+   Fr 20.09.1991 20:00   SG Wattenscheid 09 - VfL Bochum           1:2
+                       Bor. Mönchengladbach - 1. FC Köln           2:2
+                              Karlsruher SC - Fortuna Düsseldorf   1:5
+   Sa 21.09.1991 15:30    Borussia Dortmund - Hamburger SV         2:2
+                             Bayern München - Eintracht Frankfurt  3:3
+                             1. FC Nürnberg - Stuttgarter Kickers  2:0
+                              Werder Bremen - Hansa Rostock        1:0
+                           Bayer Leverkusen - Dynamo Dresden       4:0
+                              VfB Stuttgart - 1. FC Kaiserslautern 4:1
+   So 22.09.1991 18:00         MSV Duisburg - FC Schalke 04        2:0
+   11. Spieltag
+   Fr 27.09.1991 20:00           VfL Bochum - Bayer Leverkusen     0:2
+                             1. FC Nürnberg - Bayern München       1:1
+                                 1. FC Köln - SG Wattenscheid 09   1:1
+   Sa 28.09.1991 15:30       Dynamo Dresden - MSV Duisburg         0:0
+                              FC Schalke 04 - Karlsruher SC        3:1
+                         Fortuna Düsseldorf - Werder Bremen        0:0
+                        Eintracht Frankfurt - Borussia Dortmund    3:0
+                               Hamburger SV - VfB Stuttgart        1:1
+                       1. FC Kaiserslautern - Bor. Mönchengladbach 4:2
+                        Stuttgarter Kickers - Hansa Rostock        1:1
+   12. Spieltag
+   Fr 04.10.1991 19:30         MSV Duisburg - VfL Bochum           1:1
+                 20:00    Borussia Dortmund - 1. FC Nürnberg       3:2
+                              Karlsruher SC - Dynamo Dresden       1:0
+   Sa 05.10.1991 15:30   SG Wattenscheid 09 - 1. FC Kaiserslautern 1:0
+                       Bor. Mönchengladbach - Hamburger SV         1:0
+                             Bayern München - Stuttgarter Kickers  1:4
+                              Hansa Rostock - Fortuna Düsseldorf   3:1
+                              Werder Bremen - FC Schalke 04        2:1
+                           Bayer Leverkusen - 1. FC Köln           1:1
+                              VfB Stuttgart - Eintracht Frankfurt  1:2
+   13. Spieltag
+   Fr 11.10.1991 20:00           VfL Bochum - Karlsruher SC        1:3
+                             1. FC Nürnberg - VfB Stuttgart        4:3
+                        Eintracht Frankfurt - Bor. Mönchengladbach 0:0
+   Sa 12.10.1991 15:30       Dynamo Dresden - Werder Bremen        2:1
+                              FC Schalke 04 - Hansa Rostock        5:0
+                             Bayern München - Borussia Dortmund    0:3
+                               Hamburger SV - SG Wattenscheid 09   0:1
+                       1. FC Kaiserslautern - Bayer Leverkusen     2:1
+                                 1. FC Köln - MSV Duisburg         1:1
+                        Stuttgarter Kickers - Fortuna Düsseldorf   0:1
+   14. Spieltag
+   Fr 18.10.1991 19:30         MSV Duisburg - 1. FC Kaiserslautern 1:1
+                 20:00 Bor. Mönchengladbach - 1. FC Nürnberg       1:0
+                              Werder Bremen - VfL Bochum           3:0
+   Sa 19.10.1991 15:30   SG Wattenscheid 09 - Eintracht Frankfurt  2:4
+                         Fortuna Düsseldorf - FC Schalke 04        1:1
+                              Hansa Rostock - Dynamo Dresden       3:0
+                              Karlsruher SC - 1. FC Köln           0:1
+                           Bayer Leverkusen - Hamburger SV         1:1
+                              VfB Stuttgart - Bayern München       3:2
+   So 20.10.1991 18:00    Borussia Dortmund - Stuttgarter Kickers  3:1
+   15. Spieltag
+   Fr 25.10.1991 20:00           VfL Bochum - Hansa Rostock        3:2
+                             Dynamo Dresden - Fortuna Düsseldorf   2:0
+                             1. FC Nürnberg - SG Wattenscheid 09   3:1
+   Sa 26.10.1991 15:30    Borussia Dortmund - VfB Stuttgart        0:0
+                             Bayern München - Bor. Mönchengladbach 3:0
+                        Eintracht Frankfurt - Bayer Leverkusen     0:1
+                               Hamburger SV - MSV Duisburg         1:1
+                       1. FC Kaiserslautern - Karlsruher SC        3:0
+                                 1. FC Köln - Werder Bremen        5:0
+                        Stuttgarter Kickers - FC Schalke 04        1:1
+   16. Spieltag
+   Fr 01.11.1991 19:30         MSV Duisburg - Eintracht Frankfurt  3:6
+                 20:00   SG Wattenscheid 09 - Bayern München       0:0
+                              Werder Bremen - 1. FC Kaiserslautern 0:2
+   Sa 02.11.1991 15:30 Bor. Mönchengladbach - Borussia Dortmund    1:1
+                              FC Schalke 04 - Dynamo Dresden       1:1
+                         Fortuna Düsseldorf - VfL Bochum           3:0
+                              Hansa Rostock - 1. FC Köln           1:1
+                              Karlsruher SC - Hamburger SV         4:1
+                           Bayer Leverkusen - 1. FC Nürnberg       0:1
+                              VfB Stuttgart - Stuttgarter Kickers  3:1
+   17. Spieltag
+   Fr 08.11.1991 20:00    Borussia Dortmund - SG Wattenscheid 09   1:1
+                             1. FC Nürnberg - MSV Duisburg         1:1
+   Sa 09.11.1991 15:30           VfL Bochum - FC Schalke 04        1:0
+                             Dynamo Dresden - Stuttgarter Kickers  2:2
+                             Bayern München - Bayer Leverkusen     2:2
+                        Eintracht Frankfurt - Karlsruher SC        1:1
+                       1. FC Kaiserslautern - Hansa Rostock        3:0
+                                 1. FC Köln - Fortuna Düsseldorf   4:1
+                              VfB Stuttgart - Bor. Mönchengladbach 0:1
+   So 10.11.1991 19:00         Hamburger SV - Werder Bremen        0:1
+   18. Spieltag
+   Fr 15.11.1991 19:30         MSV Duisburg - Bayern München       1:1
+                 20:00   SG Wattenscheid 09 - VfB Stuttgart        1:3
+                              Werder Bremen - Eintracht Frankfurt  1:0
+   Sa 16.11.1991 15:30       Dynamo Dresden - VfL Bochum           0:0
+                              FC Schalke 04 - 1. FC Köln           3:0
+                         Fortuna Düsseldorf - 1. FC Kaiserslautern 1:0
+                              Hansa Rostock - Hamburger SV         1:2
+                              Karlsruher SC - 1. FC Nürnberg       1:0
+                           Bayer Leverkusen - Borussia Dortmund    0:2
+                        Stuttgarter Kickers - Bor. Mönchengladbach 3:0
+   19. Spieltag
+   Fr 22.11.1991 20:00           VfL Bochum - Stuttgarter Kickers  2:2
+                       Bor. Mönchengladbach - SG Wattenscheid 09   1:0
+   Sa 23.11.1991 15:30    Borussia Dortmund - MSV Duisburg         2:1
+                             Bayern München - Karlsruher SC        1:0
+                             1. FC Nürnberg - Werder Bremen        1:0
+                        Eintracht Frankfurt - Hansa Rostock        2:0
+                               Hamburger SV - Fortuna Düsseldorf   1:1
+                       1. FC Kaiserslautern - FC Schalke 04        1:1
+                              VfB Stuttgart - Bayer Leverkusen     2:0
+   Di 10.12.1991 20:00           1. FC Köln - Dynamo Dresden       1:1
+   20. Spieltag
+   Fr 29.11.1991 20:00    Borussia Dortmund - Karlsruher SC        1:0
+                       Bor. Mönchengladbach - Bayer Leverkusen     2:2
+                         SG Wattenscheid 09 - Stuttgarter Kickers  4:1
+   Sa 30.11.1991 15:30           1. FC Köln - VfL Bochum           1:0
+                       1. FC Kaiserslautern - Dynamo Dresden       4:1
+                               Hamburger SV - FC Schalke 04        2:1
+                        Eintracht Frankfurt - Fortuna Düsseldorf   1:1
+                             1. FC Nürnberg - Hansa Rostock        0:0
+                             Bayern München - Werder Bremen        3:4
+                              VfB Stuttgart - MSV Duisburg         2:0
+   21. Spieltag
+   Do 05.12.1991 20:00        FC Schalke 04 - Eintracht Frankfurt  1:1
+   Fr 06.12.1991 20:00        Werder Bremen - Borussia Dortmund    0:1
+                         Fortuna Düsseldorf - 1. FC Nürnberg       1:2
+   Sa 07.12.1991 15:30     Bayer Leverkusen - SG Wattenscheid 09   6:1
+                              Hansa Rostock - Bayern München       2:1
+                             Dynamo Dresden - Hamburger SV         3:0
+                                 VfL Bochum - 1. FC Kaiserslautern 0:0
+                        Stuttgarter Kickers - 1. FC Köln           0:3
+                              Karlsruher SC - VfB Stuttgart        0:0
+   So 08.12.1991 18:00         MSV Duisburg - Bor. Mönchengladbach 1:1
+   22. Spieltag
+   Fr 13.12.1991 19:00         Hamburger SV - VfL Bochum           0:0
+                 20:00    Borussia Dortmund - Hansa Rostock        4:1
+                       Bor. Mönchengladbach - Karlsruher SC        1:0
+   Sa 14.12.1991 15:30  Eintracht Frankfurt - Dynamo Dresden       3:0
+                             1. FC Nürnberg - FC Schalke 04        0:1
+                             Bayern München - Fortuna Düsseldorf   3:1
+                              VfB Stuttgart - Werder Bremen        1:1
+                         SG Wattenscheid 09 - MSV Duisburg         2:0
+                       1. FC Kaiserslautern - 1. FC Köln           2:1
+                           Bayer Leverkusen - Stuttgarter Kickers  3:1
+   23. Spieltag
+   Fr 07.02.1992 20:00        Karlsruher SC - SG Wattenscheid 09   1:2
+                             Dynamo Dresden - 1. FC Nürnberg       1:2
+                                 VfL Bochum - Eintracht Frankfurt  0:0
+   Sa 08.02.1992 15:30        Werder Bremen - Bor. Mönchengladbach 0:0
+                         Fortuna Düsseldorf - Borussia Dortmund    1:1
+                              FC Schalke 04 - Bayern München       1:1
+                                 1. FC Köln - Hamburger SV         0:0
+                        Stuttgarter Kickers - 1. FC Kaiserslautern 1:1
+                              Hansa Rostock - VfB Stuttgart        2:0
+   So 09.02.1992 18:00         MSV Duisburg - Bayer Leverkusen     1:2
+   24. Spieltag
+   Fr 14.02.1992 19:30         MSV Duisburg - Stuttgarter Kickers  1:1
+                 20:00       1. FC Nürnberg - VfL Bochum           1:0
+                         SG Wattenscheid 09 - Werder Bremen        0:1
+   Sa 15.02.1992 15:30       Bayern München - Dynamo Dresden       1:2
+                          Borussia Dortmund - FC Schalke 04        2:0
+                              VfB Stuttgart - Fortuna Düsseldorf   3:1
+                       Bor. Mönchengladbach - Hansa Rostock        1:1
+                           Bayer Leverkusen - Karlsruher SC        2:0
+                        Eintracht Frankfurt - 1. FC Köln           1:2
+   So 16.02.1992 19:00         Hamburger SV - 1. FC Kaiserslautern 0:1
+   25. Spieltag
+   Do 20.02.1992 19:15           VfL Bochum - Bayern München       0:5
+   Fr 21.02.1992 20:00        Karlsruher SC - MSV Duisburg         2:2
+                              Werder Bremen - Bayer Leverkusen     1:1
+   Sa 22.02.1992 15:30        Hansa Rostock - SG Wattenscheid 09   1:1
+                         Fortuna Düsseldorf - Bor. Mönchengladbach 1:1
+                             Dynamo Dresden - Borussia Dortmund    0:0
+                                 1. FC Köln - 1. FC Nürnberg       4:0
+                       1. FC Kaiserslautern - Eintracht Frankfurt  1:1
+                        Stuttgarter Kickers - Hamburger SV         1:1
+                              FC Schalke 04 - VfB Stuttgart        0:1
+   26. Spieltag
+   Fr 28.02.1992 19:30         MSV Duisburg - Werder Bremen        0:0
+                 20:00   SG Wattenscheid 09 - Fortuna Düsseldorf   4:1
+                           Bayer Leverkusen - Hansa Rostock        3:0
+   Sa 29.02.1992 15:30    Borussia Dortmund - VfL Bochum           1:1
+                              VfB Stuttgart - Dynamo Dresden       1:1
+                       Bor. Mönchengladbach - FC Schalke 04        1:1
+                        Eintracht Frankfurt - Hamburger SV         2:1
+                             1. FC Nürnberg - 1. FC Kaiserslautern 3:2
+                             Bayern München - 1. FC Köln           0:0
+                              Karlsruher SC - Stuttgarter Kickers  3:1
+   27. Spieltag
+   Fr 06.03.1992 20:00        FC Schalke 04 - SG Wattenscheid 09   1:1
+                             Dynamo Dresden - Bor. Mönchengladbach 1:2
+                              Hansa Rostock - MSV Duisburg         0:0
+   Sa 07.03.1992 15:30           1. FC Köln - Borussia Dortmund    1:2
+                       1. FC Kaiserslautern - Bayern München       4:0
+                        Stuttgarter Kickers - Eintracht Frankfurt  0:2
+                              Werder Bremen - Karlsruher SC        0:0
+                         Fortuna Düsseldorf - Bayer Leverkusen     1:1
+                                 VfL Bochum - VfB Stuttgart        0:2
+   So 08.03.1992 19:00         Hamburger SV - 1. FC Nürnberg       0:2
+   28. Spieltag
+   Fr 13.03.1992 20:00 Bor. Mönchengladbach - VfL Bochum           1:2
+                             1. FC Nürnberg - Eintracht Frankfurt  1:3
+                              Werder Bremen - Stuttgarter Kickers  1:3
+   Sa 14.03.1992 15:30     Bayer Leverkusen - FC Schalke 04        2:1
+                              Karlsruher SC - Hansa Rostock        2:1
+                             Bayern München - Hamburger SV         2:0
+                          Borussia Dortmund - 1. FC Kaiserslautern 3:1
+                              VfB Stuttgart - 1. FC Köln           1:0
+   Di 17.03.1992 20:00         MSV Duisburg - Fortuna Düsseldorf   2:2
+   Di 31.03.1992 20:00   SG Wattenscheid 09 - Dynamo Dresden       3:0
+   29. Spieltag
+   Fr 20.03.1992 20:00           VfL Bochum - SG Wattenscheid 09   1:1
+                               Hamburger SV - Borussia Dortmund    1:1
+                             Dynamo Dresden - Bayer Leverkusen     1:0
+   Sa 21.03.1992 15:30           1. FC Köln - Bor. Mönchengladbach 1:1
+                        Eintracht Frankfurt - Bayern München       3:2
+                        Stuttgarter Kickers - 1. FC Nürnberg       3:1
+                              Hansa Rostock - Werder Bremen        0:0
+                         Fortuna Düsseldorf - Karlsruher SC        2:3
+                              FC Schalke 04 - MSV Duisburg         3:0
+                       1. FC Kaiserslautern - VfB Stuttgart        0:0
+   30. Spieltag
+   Fr 27.03.1992 19:30         MSV Duisburg - Dynamo Dresden       3:0
+                 20:00        Werder Bremen - Fortuna Düsseldorf   2:1
+                         SG Wattenscheid 09 - 1. FC Köln           1:2
+   Sa 28.03.1992 15:30     Bayer Leverkusen - VfL Bochum           2:0
+                              Karlsruher SC - FC Schalke 04        1:0
+                             Bayern München - 1. FC Nürnberg       1:3
+                          Borussia Dortmund - Eintracht Frankfurt  2:2
+                              VfB Stuttgart - Hamburger SV         3:2
+                       Bor. Mönchengladbach - 1. FC Kaiserslautern 1:0
+                              Hansa Rostock - Stuttgarter Kickers  2:2
+   31. Spieltag
+   Fr 03.04.1992 20:00       1. FC Nürnberg - Borussia Dortmund    2:1
+                             Dynamo Dresden - Karlsruher SC        2:0
+                                 VfL Bochum - MSV Duisburg         2:1
+   Sa 04.04.1992 15:30 1. FC Kaiserslautern - SG Wattenscheid 09   3:2
+                               Hamburger SV - Bor. Mönchengladbach 1:0
+                        Stuttgarter Kickers - Bayern München       2:4
+                         Fortuna Düsseldorf - Hansa Rostock        0:0
+                              FC Schalke 04 - Werder Bremen        0:0
+                                 1. FC Köln - Bayer Leverkusen     1:1
+                        Eintracht Frankfurt - VfB Stuttgart        1:1
+   32. Spieltag
+   Fr 10.04.1992 20:00        Hansa Rostock - FC Schalke 04        2:0
+                          Borussia Dortmund - Bayern München       3:0
+                         Fortuna Düsseldorf - Stuttgarter Kickers  1:3
+   Sa 11.04.1992 15:30        Karlsruher SC - VfL Bochum           1:1
+                              Werder Bremen - Dynamo Dresden       2:0
+                              VfB Stuttgart - 1. FC Nürnberg       2:0
+                       Bor. Mönchengladbach - Eintracht Frankfurt  1:1
+                         SG Wattenscheid 09 - Hamburger SV         1:1
+                           Bayer Leverkusen - 1. FC Kaiserslautern 3:0
+                               MSV Duisburg - 1. FC Köln           1:3
+   33. Spieltag
+   Do 16.04.1992 19:30  Stuttgarter Kickers - Borussia Dortmund    0:1
+                 20:00       Dynamo Dresden - Hansa Rostock        2:1
+   Sa 18.04.1992 15:30  Eintracht Frankfurt - SG Wattenscheid 09   1:1
+                             1. FC Nürnberg - Bor. Mönchengladbach 2:1
+                              FC Schalke 04 - Fortuna Düsseldorf   0:0
+                                 VfL Bochum - Werder Bremen        2:2
+                                 1. FC Köln - Karlsruher SC        2:3
+                       1. FC Kaiserslautern - MSV Duisburg         2:1
+                               Hamburger SV - Bayer Leverkusen     1:1
+                             Bayern München - VfB Stuttgart        1:0
+   34. Spieltag
+   Fr 24.04.1992 20:00        Hansa Rostock - VfL Bochum           0:2
+                         Fortuna Düsseldorf - Dynamo Dresden       1:3
+                         SG Wattenscheid 09 - 1. FC Nürnberg       1:1
+   Sa 25.04.1992 15:30        VfB Stuttgart - Borussia Dortmund    4:2
+                       Bor. Mönchengladbach - Bayern München       1:1
+                           Bayer Leverkusen - Eintracht Frankfurt  1:3
+                               MSV Duisburg - Hamburger SV         0:1
+                              Karlsruher SC - 1. FC Kaiserslautern 2:1
+                              Werder Bremen - 1. FC Köln           1:3
+                              FC Schalke 04 - Stuttgarter Kickers  1:2
+   35. Spieltag
+   Fr 01.05.1992 15:30       Bayern München - SG Wattenscheid 09   5:2
+                 18:00 1. FC Kaiserslautern - Werder Bremen        2:2
+                 20:00       1. FC Nürnberg - Bayer Leverkusen     1:0
+   Sa 02.05.1992 15:30    Borussia Dortmund - Bor. Mönchengladbach 2:2
+                             Dynamo Dresden - FC Schalke 04        2:1
+                                 1. FC Köln - Hansa Rostock        3:1
+                               Hamburger SV - Karlsruher SC        0:1
+                        Eintracht Frankfurt - MSV Duisburg         3:0
+                        Stuttgarter Kickers - VfB Stuttgart        1:3
+                 18:00           VfL Bochum - Fortuna Düsseldorf   3:0
+   36. Spieltag
+   Di 28.04.1992 20:00        Werder Bremen - Hamburger SV         1:1
+   Di 05.05.1992 19:30         MSV Duisburg - 1. FC Nürnberg       3:0
+                 20:00        FC Schalke 04 - VfL Bochum           2:1
+                        Stuttgarter Kickers - Dynamo Dresden       0:0
+                         SG Wattenscheid 09 - Borussia Dortmund    0:1
+                           Bayer Leverkusen - Bayern München       2:1
+                              Karlsruher SC - Eintracht Frankfurt  0:2
+                              Hansa Rostock - 1. FC Kaiserslautern 0:1
+                         Fortuna Düsseldorf - 1. FC Köln           1:3
+                       Bor. Mönchengladbach - VfB Stuttgart        0:1
+   37. Spieltag
+   Sa 09.05.1992 15:30        VfB Stuttgart - SG Wattenscheid 09   1:1
+                                 VfL Bochum - Dynamo Dresden       1:0
+                                 1. FC Köln - FC Schalke 04        3:0
+                       1. FC Kaiserslautern - Fortuna Düsseldorf   2:0
+                               Hamburger SV - Hansa Rostock        1:0
+                        Eintracht Frankfurt - Werder Bremen        2:2
+                             1. FC Nürnberg - Karlsruher SC        1:2
+                             Bayern München - MSV Duisburg         4:2
+                          Borussia Dortmund - Bayer Leverkusen     3:1
+                       Bor. Mönchengladbach - Stuttgarter Kickers  2:1
+   38. Spieltag
+   Sa 16.05.1992 15:30  Stuttgarter Kickers - VfL Bochum           2:0
+                         SG Wattenscheid 09 - Bor. Mönchengladbach 3:2
+                               MSV Duisburg - Borussia Dortmund    0:1
+                              Karlsruher SC - Bayern München       3:0
+                              Werder Bremen - 1. FC Nürnberg       1:3
+                              Hansa Rostock - Eintracht Frankfurt  2:1
+                         Fortuna Düsseldorf - Hamburger SV         1:0
+                              FC Schalke 04 - 1. FC Kaiserslautern 2:0
+                             Dynamo Dresden - 1. FC Köln           0:0
+                           Bayer Leverkusen - VfB Stuttgart        1:2

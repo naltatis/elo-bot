@@ -1,0 +1,340 @@
+   1. Spieltag
+   Fr 18.08.1967 20:00           MSV Duisburg - Borussia Dortmund      2:2
+   Sa 19.08.1967 16:00       TSV 1860 München - Eintracht Braunschweig 1:0
+                                FC Schalke 04 - Bor. Mönchengladbach   3:4
+                                VfB Stuttgart - Eintracht Frankfurt    4:0
+                             Alemannia Aachen - Bayern München         0:4
+                               1. FC Nürnberg - Karlsruher SC          2:0
+                                  Hannover 96 - 1. FC Köln             3:0
+                         1. FC Kaiserslautern - Borussia Neunkirchen   2:1
+                                Werder Bremen - Hamburger SV           1:4
+   2. Spieltag
+   Sa 26.08.1967 16:00    Eintracht Frankfurt - Werder Bremen          5:3
+                                Karlsruher SC - MSV Duisburg           0:2
+                         Borussia Neunkirchen - 1. FC Nürnberg         2:2
+                       Eintracht Braunschweig - FC Schalke 04          1:0
+                                 Hamburger SV - 1. FC Kaiserslautern   1:1
+                                   1. FC Köln - TSV 1860 München       1:0
+                               Bayern München - Hannover 96            1:0
+                         Bor. Mönchengladbach - VfB Stuttgart          1:1
+                            Borussia Dortmund - Alemannia Aachen       1:0
+   3. Spieltag
+   Sa 02.09.1967 16:00           MSV Duisburg - Borussia Neunkirchen   3:1
+                                VfB Stuttgart - Eintracht Braunschweig 0:0
+                                  Hannover 96 - Borussia Dortmund      2:2
+                                Werder Bremen - Bor. Mönchengladbach   0:4
+                         1. FC Kaiserslautern - Eintracht Frankfurt    1:1
+                               1. FC Nürnberg - Hamburger SV           4:0
+                             Alemannia Aachen - Karlsruher SC          2:1
+                                FC Schalke 04 - TSV 1860 München       0:0
+                               Bayern München - 1. FC Köln             0:3
+   4. Spieltag
+   Sa 09.09.1967 16:00   Borussia Neunkirchen - Alemannia Aachen       0:1
+                       Eintracht Braunschweig - Werder Bremen          0:3
+                                   1. FC Köln - FC Schalke 04          7:0
+                             TSV 1860 München - VfB Stuttgart          3:3
+                          Eintracht Frankfurt - 1. FC Nürnberg         1:2
+                                 Hamburger SV - MSV Duisburg           1:3
+                         Bor. Mönchengladbach - 1. FC Kaiserslautern   8:2
+                                Karlsruher SC - Hannover 96            3:1
+                            Borussia Dortmund - Bayern München         6:3
+   5. Spieltag
+   Mi 13.09.1967 20:00      Borussia Dortmund - 1. FC Köln             2:0
+                         1. FC Kaiserslautern - Eintracht Braunschweig 2:2
+                                  Hannover 96 - Borussia Neunkirchen   2:0
+                               1. FC Nürnberg - Bor. Mönchengladbach   1:0
+                                 MSV Duisburg - Eintracht Frankfurt    0:1
+                             Alemannia Aachen - Hamburger SV           2:0
+                                Werder Bremen - TSV 1860 München       2:2
+                               Bayern München - Karlsruher SC          3:0
+                                VfB Stuttgart - FC Schalke 04          2:0
+   6. Spieltag
+   Sa 16.09.1967 16:00   Bor. Mönchengladbach - MSV Duisburg           1:1
+                                   1. FC Köln - VfB Stuttgart          2:2
+                                Karlsruher SC - Borussia Dortmund      2:0
+                                FC Schalke 04 - Werder Bremen          0:2
+                         Borussia Neunkirchen - Bayern München         1:1
+                             TSV 1860 München - 1. FC Kaiserslautern   0:3
+                          Eintracht Frankfurt - Alemannia Aachen       1:1
+                                 Hamburger SV - Hannover 96            2:3
+                       Eintracht Braunschweig - 1. FC Nürnberg         0:3
+   7. Spieltag
+   Fr 22.09.1967 20:00           MSV Duisburg - Eintracht Braunschweig 2:3
+   Sa 23.09.1967 16:00      Borussia Dortmund - Borussia Neunkirchen   6:0
+                                Karlsruher SC - 1. FC Köln             0:1
+                                Werder Bremen - VfB Stuttgart          3:1
+                         1. FC Kaiserslautern - FC Schalke 04          1:0
+                               Bayern München - Hamburger SV           1:0
+                               1. FC Nürnberg - TSV 1860 München       1:1
+                             Alemannia Aachen - Bor. Mönchengladbach   0:0
+                                  Hannover 96 - Eintracht Frankfurt    2:1
+   8. Spieltag
+   Sa 30.09.1967 15:30       TSV 1860 München - MSV Duisburg           0:1
+                                   1. FC Köln - Werder Bremen          1:4
+                         Borussia Neunkirchen - Karlsruher SC          3:2
+                                 Hamburger SV - Borussia Dortmund      3:2
+                                FC Schalke 04 - 1. FC Nürnberg         0:0
+                          Eintracht Frankfurt - Bayern München         2:3
+                         Bor. Mönchengladbach - Hannover 96            5:1
+                       Eintracht Braunschweig - Alemannia Aachen       2:0
+   Fr 06.10.1967 20:00          VfB Stuttgart - 1. FC Kaiserslautern   0:1
+   9. Spieltag
+   Sa 14.10.1967 16:00         Bayern München - Bor. Mönchengladbach   3:1
+                                 MSV Duisburg - FC Schalke 04          1:1
+                                  Hannover 96 - Eintracht Braunschweig 1:1
+                            Borussia Dortmund - Eintracht Frankfurt    2:1
+                               1. FC Nürnberg - VfB Stuttgart          5:1
+                                Karlsruher SC - Hamburger SV           2:1
+                         1. FC Kaiserslautern - Werder Bremen          2:2
+                         Borussia Neunkirchen - 1. FC Köln             2:1
+                             Alemannia Aachen - TSV 1860 München       3:3
+   10. Spieltag
+   Sa 21.10.1967 16:00          Werder Bremen - 1. FC Nürnberg         0:4
+                             TSV 1860 München - Hannover 96            3:1
+                       Eintracht Braunschweig - Bayern München         1:0
+                                   1. FC Köln - 1. FC Kaiserslautern   5:0
+                                 Hamburger SV - Borussia Neunkirchen   0:0
+                          Eintracht Frankfurt - Karlsruher SC          2:0
+                                VfB Stuttgart - MSV Duisburg           3:0
+                         Bor. Mönchengladbach - Borussia Dortmund      2:2
+                                FC Schalke 04 - Alemannia Aachen       2:1
+   11. Spieltag
+   Sa 28.10.1967 16:00         Bayern München - TSV 1860 München       2:2
+                            Borussia Dortmund - Eintracht Braunschweig 0:1
+                                  Hannover 96 - FC Schalke 04          2:1
+                                Karlsruher SC - Bor. Mönchengladbach   3:2
+                                 MSV Duisburg - Werder Bremen          1:1
+                         Borussia Neunkirchen - Eintracht Frankfurt    2:2
+                               1. FC Nürnberg - 1. FC Kaiserslautern   4:1
+                                 Hamburger SV - 1. FC Köln             3:1
+                             Alemannia Aachen - VfB Stuttgart          3:2
+   12. Spieltag
+   Sa 04.11.1967 16:00          FC Schalke 04 - Bayern München         0:1
+                          Eintracht Frankfurt - Hamburger SV           1:1
+                       Eintracht Braunschweig - Karlsruher SC          1:0
+                         Bor. Mönchengladbach - Borussia Neunkirchen   10:0
+                                VfB Stuttgart - Hannover 96            2:0
+                         1. FC Kaiserslautern - MSV Duisburg           0:1
+                             TSV 1860 München - Borussia Dortmund      3:0
+                                Werder Bremen - Alemannia Aachen       0:1
+                                   1. FC Köln - 1. FC Nürnberg         3:3
+   13. Spieltag
+   Sa 11.11.1967 16:00   Borussia Neunkirchen - Eintracht Braunschweig 1:2
+                                 Hamburger SV - Bor. Mönchengladbach   2:3
+                            Borussia Dortmund - FC Schalke 04          2:1
+                               Bayern München - VfB Stuttgart          3:1
+                                Karlsruher SC - TSV 1860 München       0:3
+                             Alemannia Aachen - 1. FC Kaiserslautern   1:1
+                                 MSV Duisburg - 1. FC Nürnberg         2:0
+                                  Hannover 96 - Werder Bremen          4:2
+                          Eintracht Frankfurt - 1. FC Köln             1:2
+   14. Spieltag
+   Sa 18.11.1967 16:00          VfB Stuttgart - Borussia Dortmund      4:1
+                       Eintracht Braunschweig - Hamburger SV           0:1
+                         Bor. Mönchengladbach - Eintracht Frankfurt    1:1
+                         1. FC Kaiserslautern - Hannover 96            0:0
+                                FC Schalke 04 - Karlsruher SC          2:0
+                                   1. FC Köln - MSV Duisburg           3:0
+                               1. FC Nürnberg - Alemannia Aachen       4:1
+                             TSV 1860 München - Borussia Neunkirchen   5:0
+                                Werder Bremen - Bayern München         4:1
+   15. Spieltag
+   Sa 25.11.1967 16:00         Bayern München - 1. FC Kaiserslautern   4:1
+                                Karlsruher SC - VfB Stuttgart          1:4
+                          Eintracht Frankfurt - Eintracht Braunschweig 2:0
+                                  Hannover 96 - 1. FC Nürnberg         1:1
+                                 MSV Duisburg - Alemannia Aachen       3:0
+                                   1. FC Köln - Bor. Mönchengladbach   2:5
+                            Borussia Dortmund - Werder Bremen          1:1
+                                 Hamburger SV - TSV 1860 München       2:2
+                         Borussia Neunkirchen - FC Schalke 04          1:5
+   16. Spieltag
+   Sa 02.12.1967 16:00   1. FC Kaiserslautern - Borussia Dortmund      2:2
+                                FC Schalke 04 - Hamburger SV           3:0
+                             TSV 1860 München - Eintracht Frankfurt    5:0
+                                 MSV Duisburg - Hannover 96            1:2
+                       Eintracht Braunschweig - Bor. Mönchengladbach   2:1
+                               1. FC Nürnberg - Bayern München         7:3
+                                Werder Bremen - Karlsruher SC          6:1
+                             Alemannia Aachen - 1. FC Köln             4:2
+   Sa 16.12.1967 16:00          VfB Stuttgart - Borussia Neunkirchen   2:1
+   17. Spieltag
+   Sa 09.12.1967 15:30      Borussia Dortmund - 1. FC Nürnberg         1:2
+                         Borussia Neunkirchen - Werder Bremen          0:0
+                          Eintracht Frankfurt - FC Schalke 04          2:2
+                                 Hamburger SV - VfB Stuttgart          1:1
+                                  Hannover 96 - Alemannia Aachen       1:1
+                               Bayern München - MSV Duisburg           0:4
+                                   1. FC Köln - Eintracht Braunschweig 1:0
+                         Bor. Mönchengladbach - TSV 1860 München       1:1
+                                Karlsruher SC - 1. FC Kaiserslautern   2:2
+   18. Spieltag
+   Sa 06.01.1968 15:30           Hamburger SV - Werder Bremen          2:1
+                         Borussia Neunkirchen - 1. FC Kaiserslautern   2:1
+                 16:00          Karlsruher SC - 1. FC Nürnberg         1:1
+                                   1. FC Köln - Hannover 96            2:1
+                         Bor. Mönchengladbach - FC Schalke 04          1:6
+                            Borussia Dortmund - MSV Duisburg           4:3
+                               Bayern München - Alemannia Aachen       4:1
+   Mi 03.04.1968 20:00    Eintracht Frankfurt - VfB Stuttgart          4:0
+                       Eintracht Braunschweig - TSV 1860 München       0:1
+   19. Spieltag
+   Sa 13.01.1968 15:30       TSV 1860 München - 1. FC Köln             0:1
+                               1. FC Nürnberg - Borussia Neunkirchen   3:0
+                                FC Schalke 04 - Eintracht Braunschweig 0:2
+                                  Hannover 96 - Bayern München         2:1
+                                VfB Stuttgart - Bor. Mönchengladbach   1:3
+                                 MSV Duisburg - Karlsruher SC          2:1
+                                Werder Bremen - Eintracht Frankfurt    2:0
+                             Alemannia Aachen - Borussia Dortmund      3:0
+   Sa 24.02.1968 15:30   1. FC Kaiserslautern - Hamburger SV           3:3
+   20. Spieltag
+   Sa 20.01.1968 15:30    Eintracht Frankfurt - 1. FC Kaiserslautern   5:2
+                         Bor. Mönchengladbach - Werder Bremen          3:1
+                            Borussia Dortmund - Hannover 96            3:1
+                                 Hamburger SV - 1. FC Nürnberg         3:1
+                         Borussia Neunkirchen - MSV Duisburg           2:1
+                                Karlsruher SC - Alemannia Aachen       2:4
+                       Eintracht Braunschweig - VfB Stuttgart          2:1
+                             TSV 1860 München - FC Schalke 04          1:2
+                                   1. FC Köln - Bayern München         3:3
+   21. Spieltag
+   Sa 03.02.1968 15:30       Alemannia Aachen - Borussia Neunkirchen   5:1
+                                FC Schalke 04 - 1. FC Köln             1:1
+                                VfB Stuttgart - TSV 1860 München       2:1
+                                Werder Bremen - Eintracht Braunschweig 3:2
+                                  Hannover 96 - Karlsruher SC          2:0
+                         1. FC Kaiserslautern - Bor. Mönchengladbach   0:1
+                                 MSV Duisburg - Hamburger SV           1:2
+                               1. FC Nürnberg - Eintracht Frankfurt    0:2
+   Di 02.04.1968 20:00         Bayern München - Borussia Dortmund      2:0
+   22. Spieltag
+   Sa 10.02.1968 15:30          Karlsruher SC - Bayern München         0:2
+                          Eintracht Frankfurt - MSV Duisburg           3:2
+                         Borussia Neunkirchen - Hannover 96            3:1
+                       Eintracht Braunschweig - 1. FC Kaiserslautern   1:0
+                                   1. FC Köln - Borussia Dortmund      3:0
+                                FC Schalke 04 - VfB Stuttgart          2:1
+                         Bor. Mönchengladbach - 1. FC Nürnberg         1:1
+                                 Hamburger SV - Alemannia Aachen       5:1
+                             TSV 1860 München - Werder Bremen          1:3
+   23. Spieltag
+   Sa 17.02.1968 15:30         1. FC Nürnberg - Eintracht Braunschweig 3:1
+                                  Hannover 96 - Hamburger SV           2:2
+                                 MSV Duisburg - Bor. Mönchengladbach   2:2
+                             Alemannia Aachen - Eintracht Frankfurt    2:1
+                         1. FC Kaiserslautern - TSV 1860 München       0:0
+                               Bayern München - Borussia Neunkirchen   4:0
+                                Werder Bremen - FC Schalke 04          2:0
+                            Borussia Dortmund - Karlsruher SC          5:0
+                                VfB Stuttgart - 1. FC Köln             2:0
+   24. Spieltag
+   Sa 02.03.1968 15:30          FC Schalke 04 - 1. FC Kaiserslautern   2:1
+                       Eintracht Braunschweig - MSV Duisburg           3:0
+                         Bor. Mönchengladbach - Alemannia Aachen       3:0
+                          Eintracht Frankfurt - Hannover 96            3:0
+                             TSV 1860 München - 1. FC Nürnberg         1:2
+                                 Hamburger SV - Bayern München         2:1
+                         Borussia Neunkirchen - Borussia Dortmund      3:2
+                                VfB Stuttgart - Werder Bremen          0:3
+                                   1. FC Köln - Karlsruher SC          4:0
+   25. Spieltag
+   Sa 09.03.1968 15:30   1. FC Kaiserslautern - VfB Stuttgart          2:0
+                                Karlsruher SC - Borussia Neunkirchen   5:1
+                                Werder Bremen - 1. FC Köln             3:1
+                             Alemannia Aachen - Eintracht Braunschweig 2:1
+                               1. FC Nürnberg - FC Schalke 04          2:3
+                            Borussia Dortmund - Hamburger SV           2:2
+                                  Hannover 96 - Bor. Mönchengladbach   1:1
+                               Bayern München - Eintracht Frankfurt    3:0
+                                 MSV Duisburg - TSV 1860 München       2:1
+   26. Spieltag
+   Sa 16.03.1968 15:30       TSV 1860 München - Alemannia Aachen       6:0
+                                FC Schalke 04 - MSV Duisburg           0:3
+                       Eintracht Braunschweig - Hannover 96            0:1
+                                Werder Bremen - 1. FC Kaiserslautern   2:1
+                                 Hamburger SV - Karlsruher SC          0:0
+                                VfB Stuttgart - 1. FC Nürnberg         1:1
+                          Eintracht Frankfurt - Borussia Dortmund      4:1
+                                   1. FC Köln - Borussia Neunkirchen   2:1
+                         Bor. Mönchengladbach - Bayern München         1:1
+   27. Spieltag
+   Sa 23.03.1968 15:30           MSV Duisburg - VfB Stuttgart          3:3
+                               1. FC Nürnberg - Werder Bremen          0:0
+                                Karlsruher SC - Eintracht Frankfurt    0:1
+                         Borussia Neunkirchen - Hamburger SV           0:3
+                            Borussia Dortmund - Bor. Mönchengladbach   3:1
+                                  Hannover 96 - TSV 1860 München       1:2
+                               Bayern München - Eintracht Braunschweig 3:0
+                             Alemannia Aachen - FC Schalke 04          2:1
+                         1. FC Kaiserslautern - 1. FC Köln             2:1
+   28. Spieltag
+   Sa 30.03.1968 15:30    Eintracht Frankfurt - Borussia Neunkirchen   4:1
+                                Werder Bremen - MSV Duisburg           3:3
+                       Eintracht Braunschweig - Borussia Dortmund      2:0
+                         Bor. Mönchengladbach - Karlsruher SC          0:0
+                                FC Schalke 04 - Hannover 96            1:1
+                                   1. FC Köln - Hamburger SV           2:1
+                         1. FC Kaiserslautern - 1. FC Nürnberg         1:0
+                             TSV 1860 München - Bayern München         3:2
+                                VfB Stuttgart - Alemannia Aachen       4:1
+   29. Spieltag
+   Fr 05.04.1968 20:00       Alemannia Aachen - Werder Bremen          1:1
+   Sa 06.04.1968 15:30      Borussia Dortmund - TSV 1860 München       0:0
+                                 Hamburger SV - Eintracht Frankfurt    0:1
+                               1. FC Nürnberg - 1. FC Köln             2:1
+                               Bayern München - FC Schalke 04          2:0
+                                 MSV Duisburg - 1. FC Kaiserslautern   7:0
+                                  Hannover 96 - VfB Stuttgart          2:1
+                         Borussia Neunkirchen - Bor. Mönchengladbach   0:3
+                                Karlsruher SC - Eintracht Braunschweig 1:2
+   30. Spieltag
+   Sa 20.04.1968 15:30          Werder Bremen - Hannover 96            1:0
+                         Bor. Mönchengladbach - Hamburger SV           4:1
+                               1. FC Nürnberg - MSV Duisburg           4:1
+                       Eintracht Braunschweig - Borussia Neunkirchen   4:2
+                                VfB Stuttgart - Bayern München         3:0
+                                   1. FC Köln - Eintracht Frankfurt    5:1
+                             TSV 1860 München - Karlsruher SC          3:0
+                                FC Schalke 04 - Borussia Dortmund      1:0
+                         1. FC Kaiserslautern - Alemannia Aachen       1:0
+   31. Spieltag
+   Fr 26.04.1968 20:00           MSV Duisburg - 1. FC Köln             3:2
+   Sa 27.04.1968 15:30      Borussia Dortmund - VfB Stuttgart          2:1
+                                  Hannover 96 - 1. FC Kaiserslautern   2:0
+                         Borussia Neunkirchen - TSV 1860 München       1:0
+                               Bayern München - Werder Bremen          2:3
+                                Karlsruher SC - FC Schalke 04          1:0
+                          Eintracht Frankfurt - Bor. Mönchengladbach   3:1
+                             Alemannia Aachen - 1. FC Nürnberg         2:0
+                                 Hamburger SV - Eintracht Braunschweig 0:0
+   32. Spieltag
+   Sa 11.05.1968 15:30   1. FC Kaiserslautern - Bayern München         2:2
+                         Bor. Mönchengladbach - 1. FC Köln             1:0
+                             Alemannia Aachen - MSV Duisburg           4:4
+                       Eintracht Braunschweig - Eintracht Frankfurt    0:0
+                               1. FC Nürnberg - Hannover 96            2:1
+                                VfB Stuttgart - Karlsruher SC          3:2
+                                Werder Bremen - Borussia Dortmund      2:1
+                                FC Schalke 04 - Borussia Neunkirchen   2:0
+                             TSV 1860 München - Hamburger SV           0:1
+   33. Spieltag
+   Sa 18.05.1968 15:30   Bor. Mönchengladbach - Eintracht Braunschweig 2:0
+                          Eintracht Frankfurt - TSV 1860 München       2:1
+                               Bayern München - 1. FC Nürnberg         0:2
+                                 Hamburger SV - FC Schalke 04          1:1
+                                  Hannover 96 - MSV Duisburg           2:2
+                                   1. FC Köln - Alemannia Aachen       3:1
+                                Karlsruher SC - Werder Bremen          1:2
+                         Borussia Neunkirchen - VfB Stuttgart          0:5
+                            Borussia Dortmund - 1. FC Kaiserslautern   4:0
+   34. Spieltag
+   Sa 25.05.1968 15:30          FC Schalke 04 - Eintracht Frankfurt    0:0
+                                 MSV Duisburg - Bayern München         3:3
+                             TSV 1860 München - Bor. Mönchengladbach   0:0
+                               1. FC Nürnberg - Borussia Dortmund      2:1
+                         1. FC Kaiserslautern - Karlsruher SC          1:1
+                                Werder Bremen - Borussia Neunkirchen   2:1
+                             Alemannia Aachen - Hannover 96            2:2
+                       Eintracht Braunschweig - 1. FC Köln             1:2
+   Di 28.05.1968 15:30          VfB Stuttgart - Hamburger SV           4:1
