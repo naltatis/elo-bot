@@ -70,13 +70,24 @@ liga = Botliga.new(ARGV[0])
 
 r = EloRatings.new
 r.process(matches) do |match, we|
-  if match['league_saison'] == '2010'
-    if we < 0.5
+  if match['league_saison'] == '2011'
+    if we < 0.35
+      result = '1:3'
+    elsif we < 0.4
+      result = '1:2'
+    elsif we < 0.45
       result = '0:1'
-    else
+    elsif we < 0.5
+      result = '0:0'
+    elsif we < 0.55
+      result = '1:1'
+    elsif we < 0.6
+      result = '1:0'
+    elsif we < 0.65
       result = '2:1'
+    else
+      result = '2:0'
     end
-      
     pp liga.post(match['match_id'], result)
   end
 end

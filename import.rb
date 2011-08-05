@@ -6,9 +6,10 @@ matches = []
 
 http = Net::HTTP.new('openligadb-json.heroku.com',80)
 
-(2006..2010).each do |year| 
+(2010..2011).each do |year| 
   (1..34).each do |group| 
     query = "group_order_id=#{group}&league_saison=#{year}&league_shortcut=bl1"
+    puts "/api/matchdata_by_group_league_saison?#{query}"
     response = http.get("/api/matchdata_by_group_league_saison?#{query}")
     data = JSON.parse(response.body)
     matches = matches + data['matchdata']
