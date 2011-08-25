@@ -88,6 +88,7 @@ r.process(matches) do |match, we|
     else
       result = '2:0'
     end
+    pp "#{result} #{match['match_id']}"
     pp liga.post(match['match_id'], result)
   end
 end
