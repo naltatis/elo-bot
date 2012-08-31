@@ -1,5 +1,6 @@
 require 'elo'
 require 'json'
+require 'date'
 require 'net/http'
 require 'pp'
 
@@ -10,15 +11,14 @@ class EloRatings
   
   def process (matches)
     matches.each do |match|
-      t1 = team match['id_team1']
-      t2 = team match['id_team2']
+      t1 = team match['hostId']
+      t2 = team match['guestId']
       
       we = estimate(t1.rating, t2.rating)
 
       yield match, we
       
-      calculate(t1, t2, match)
-      
+      calculate(t1, t2, match)      
     end
   end
   
@@ -32,7 +32,7 @@ class EloRatings
   end
   
   def diff (match)
-    match['points_team1'].to_i - match['points_team2'].to_i
+    match['hostGoals'].to_i - match['guestGoals'].to_i
   end
   
   def calculate (t1, t2, match)
@@ -51,26 +51,43 @@ class EloRatings
   end
 end
 
+class Importer
+  def initialize
+    @http = Net::HTTP.new('botliga.de',80)
+  end
+
+  def import
+    matches = []
+    (2010..2012).each do |year| 
+      puts ">> /api/matches/#{year}"
+      response = @http.get("/api/matches/#{year}")
+      data = JSON.parse(response.body)
+      matches = matches + data
+    end
+    matches
+  end
+end
+
 class Botliga
   def initialize(token)
-    @http = Net::HTTP.new('botliga.de', 80)
+    @uri = URI('http://botliga.de/api/guess')
+    #@uri = URI('http://localhost:3000/api/guess')
     @token = token
   end
   
   def post(match_id, result)
-    @http.post('/api/guess',"match_id=#{match_id}&result=#{result}&token=#{@token}")
+    Net::HTTP.post_form(@uri, :match_id => match_id, :result => result, :token => @token)
   end
 end
 
-
-file = File.open("data/matches.json", "rb")
-matches = JSON.parse(file.read)
+importer = Importer.new
+matches = importer.import
 
 liga = Botliga.new(ARGV[0])
 
 r = EloRatings.new
 r.process(matches) do |match, we|
-  if match['league_saison'] == '2011'
+  if DateTime.parse(match["date"]) > DateTime.now
     if we < 0.35
       result = '1:3'
     elsif we < 0.4
@@ -88,9 +105,7 @@ r.process(matches) do |match, we|
     else
       result = '2:0'
     end
-    pp "#{result} #{match['match_id']}"
-    pp liga.post(match['match_id'], result)
+    puts "#{result} - #{match['id']} - #{match['hostName']} vs. #{match['guestName']}"
+    pp liga.post(match['id'], result)
   end
 end
-
-puts 
