@@ -58,7 +58,7 @@ class Importer
 
   def import
     matches = []
-    (2010..2013).each do |year|
+    (2010..2014).each do |year|
       puts ">> /api/matches/#{year}"
       response = @http.get("/api/matches/#{year}")
       data = JSON.parse(response.body)
